@@ -1,0 +1,21 @@
+name: Package WeChat Draft
+
+on:
+  push:
+    paths:
+      - "wechat_draft/**"
+      - ".github/workflows/package-wechat.yml"
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build package
+        run: zip -r dalian-wechat-package.zip wechat_draft
+      - name: Upload package
+        uses: actions/upload-artifact@v4
+        with:
+          name: dalian-wechat-package
+          path: dalian-wechat-package.zip
+          if-no-files-found: error
