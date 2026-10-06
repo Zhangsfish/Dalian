@@ -10,3 +10,8 @@ region,years,variables,status,reason,next_step,lead_url
 重庆,2005-2019,GDP;FAI,treated_replication_pending,官方历史汇总链接两次超时；不是零效应证据,独立处理案例取原公报与可比内陆组,https://tjj.cq.gov.cn/zwgk_233/fdzdgknr/tjxx/rdsj_55470/202505/t20250520_14640030.html
 大连;供体,2005-2019,upper_level_transfers;central_project_disbursements,not_collected,直接政治资源流面板尚无,优先预算决算原表；不得用支出减收入,
 大连;供体,2005-2019,revised_GDP;revised_FAI,blocking,已收当年报告值不是统一修订版本,同版年鉴审计完成前不报政治系数或贡献率,
+大连,2011-2012,GDP_real_growth,secondary_screening_found,鸥维聚合序列给出2011=13.5%、2012=10.3%；只作为供体筛选和官方年鉴定位线索,取得大连统计年鉴2020表1-2原表后升级为revised_vintage,https://www.oweidata.com/projectDetail/city/210200/city_gpd/gpd_growth_rate
+大连,1979-2019,revised_GDP_index,official_yearbook_table_located_values_not_extracted,大连统计年鉴2020目录确认1-2地区生产总值指数（上年=100）覆盖1979-2019；当前未取得原表数值,优先取得表1-2；这是S02事件研究的关键门槛,https://www.tjnjdata.com/Yearbook/dalian-tongji-nianjian-2020.html
+青岛;宁波;厦门;烟台,2010-2019,GDP_real_growth,secondary_screening_panel_created,已建鸥维二手聚合面板但仅用于筛选；烟台2013二手修订值6.3与当年官方公报10.2明显不同,逐城取得同版官方年鉴GDP指数；不能混用当年公报和修订值,https://oweidata.com/projectDetail/city/370600/city_gpd/gpd_growth_rate
+大连,2011-2015,upper_level_fiscal_resources,partially_audited,2011-12旧口径；2013混入调入资金；2014-15有较干净中央和省税收返还及转移支付总额,对供体提取同定义财政报告后再做相对比较,https://www.mof.gov.cn/zhuantihuigu/yshb2015/201503/t20150302_1196678.htm
+青岛;厦门;宁波,2011-2015,upper_level_fiscal_resources,definitions_inconsistent,厦门2012披露中央转移支付35亿元；青岛披露中央专项资金/体制结算但非同一定义,从财政部历年汇编提取可比的税收返还+转移支付口径；找不到则只做机制边界,https://www.mof.gov.cn/zhuantihuigu/2013ssyshb/
