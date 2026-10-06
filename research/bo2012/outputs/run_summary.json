@@ -1,0 +1,16 @@
+{
+  "panel_rows": 24,
+  "unique_sources": 25,
+  "auxiliary_rows": 24,
+  "main_pre_years": [2007, 2008, 2009, 2010],
+  "pre_mean_gap_pp": 2.35,
+  "pre_gap_slope_pp_per_year": -0.7200000000000005,
+  "post_2013_2015_gap_pp": 0.5000000000000003,
+  "post_2013_2016_gap_pp": 2.625,
+  "causal_identification": "NOT_ATTEMPTED: incomplete pre data and donors; vintages not harmonized",
+  "validation": {
+    "unique_rows": true,
+    "source_keys_valid": true,
+    "missing_years_not_imputed": true
+  }
+}
