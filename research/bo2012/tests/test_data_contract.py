@@ -48,4 +48,26 @@ class DataContract(unittest.TestCase):
         self.assertGreater(strict,expanded)
         self.assertAlmostEqual(strict,19.6502807943,places=6)
         self.assertAlmostEqual(expanded,2.5423726537,places=6)
+    def test_official_multicontrol_event_arithmetic(self):
+        p=pd.read_csv(R/'data/official_growth_panel_s02d.csv')
+        w=p.pivot(index='year',columns='region',values='gdp_real_growth_pct')
+        pre=[2008,2009,2010,2011]
+        post=[2013,2014,2015,2016]
+        ctrl=w[['武汉','青岛']].mean(axis=1)
+        gap=w['大连']-ctrl
+        self.assertAlmostEqual(gap.loc[pre].mean(),1.8)
+        self.assertAlmostEqual(gap.loc[post].mean()-gap.loc[pre].mean(),-4.2125)
+    def test_official_multicontrol_leave_one_out(self):
+        p=pd.read_csv(R/'data/official_growth_panel_s02d.csv')
+        w=p.pivot(index='year',columns='region',values='gdp_real_growth_pct')
+        pre=[2008,2009,2010,2011]
+        post=[2013,2014,2015,2016]
+        gw=w['大连']-w['武汉'];gq=w['大连']-w['青岛']
+        self.assertAlmostEqual(gw.loc[post].mean()-gw.loc[pre].mean(),-3.75)
+        self.assertAlmostEqual(gq.loc[post].mean()-gq.loc[pre].mean(),-4.675)
+    def test_qingdao_2012_forecast_excluded(self):
+        p=pd.read_csv(R/'data/official_growth_panel_s02d.csv')
+        q=p[(p.region=='青岛')&(p.year==2012)].iloc[0]
+        self.assertTrue(pd.isna(q.gdp_real_growth_pct))
+        self.assertIn('forecast_excluded',q.source_quality)
 if __name__=='__main__':unittest.main()
