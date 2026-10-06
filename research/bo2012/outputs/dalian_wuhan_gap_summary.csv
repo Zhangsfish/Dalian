@@ -1,0 +1,6 @@
+metric,value
+pre_2008_2011_mean_gap_pp,1.05
+post_2013_2015_mean_gap_pp,-3.1666666667
+descriptive_post_minus_pre_change_pp,-4.2166666667
+pre_gap_linear_slope_pp_per_year,-0.2
+causal_interpretation,NOT_CAUSAL_single_comparison_only
