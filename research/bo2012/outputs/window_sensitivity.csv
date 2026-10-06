@@ -1,0 +1,7 @@
+pre_years,post_years,n_pre,n_post,pre_mean_gap_pp,post_mean_gap_pp,change_in_mean_gap_pp,method
+2007;2008;2009;2010,2013;2014;2015,4,3,2.350000,0.500000,-1.850000,arithmetic_gap_change_NOT_identified_DiD
+2007;2008;2009;2010,2013;2014;2015;2016,4,4,2.350000,2.625000,0.275000,arithmetic_gap_change_NOT_identified_DiD
+2008;2009;2010,2013;2014;2015,3,3,2.133333,0.500000,-1.633333,arithmetic_gap_change_NOT_identified_DiD
+2008;2009;2010,2013;2014;2015;2016,3,4,2.133333,2.625000,0.491667,arithmetic_gap_change_NOT_identified_DiD
+2009;2010,2013;2014;2015,2,3,1.500000,0.500000,-1.000000,arithmetic_gap_change_NOT_identified_DiD
+2009;2010,2013;2014;2015;2016,2,4,1.500000,2.625000,1.125000,arithmetic_gap_change_NOT_identified_DiD
