@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 420" width="920" height="420">
+<rect width="920" height="420" fill="white"/>
+<g font-family="sans-serif" fill="black">
+<text x="35" y="38" font-size="23">Dalian relative to Liaoning: the endpoint changes the sign</text>
+<text x="35" y="66" font-size="14">Mean real-GDP-growth gap; arithmetic only, not a political-effect estimate</text>
+<text x="35" y="125" font-size="16">2007-2010 pre (4 observed years)</text>
+<rect x="370" y="106" width="305.500" height="28" fill="none" stroke="black"/>
+<text x="690.500" y="126" font-size="18">+2.350 pp</text>
+<text x="35" y="195" font-size="16">2013-2015 post (3 years)</text>
+<rect x="370" y="176" width="65.000" height="28" fill="none" stroke="black"/>
+<text x="450.000" y="196" font-size="18">+0.500 pp</text>
+<text x="35" y="265" font-size="16">2013-2016 post (4 years)</text>
+<rect x="370" y="246" width="341.250" height="28" fill="none" stroke="black"/>
+<text x="726.250" y="266" font-size="18">+2.625 pp</text>
+<text x="35" y="340" font-size="16">Change versus pre: -1.850 pp (to 2015), +0.275 pp (to 2016)</text>
+<text x="35" y="370" font-size="13">Liaoning includes Dalian. Annual vintages are not harmonized; 2011 actual data still missing.</text>
+<text x="35" y="393" font-size="13">Including or excluding 2016 is a reported sensitivity, not a license to choose a preferred result.</text>
+</g></svg>
