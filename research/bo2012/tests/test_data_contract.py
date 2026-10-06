@@ -34,4 +34,18 @@ class DataContract(unittest.TestCase):
         self.assertTrue(d.admissible_use.eq('scope_audit_only').all())
     def test_no_causal_claim(self):
         self.assertFalse(self.p.causal_ready.any())
+    def test_dalian_wuhan_gap_screen(self):
+        d=pd.read_csv(R/'data/dalian_wuhan_official_growth.csv')
+        pre=d[d.period=='pre'].gap_pp.mean()
+        post=d[d.period=='post'].gap_pp.mean()
+        self.assertAlmostEqual(pre,1.05)
+        self.assertAlmostEqual(post,-3.1666666667)
+        self.assertAlmostEqual(post-pre,-4.2166666667)
+    def test_scm_prefit_is_diagnostic_only(self):
+        w=pd.read_csv(R/'outputs/scm_nominal_prefit_weights.csv')
+        strict=w[w.pool=='strict_original4'].pre_rmspe_index_points.iloc[0]
+        expanded=w[w.pool=='expanded_nonliaoning'].pre_rmspe_index_points.iloc[0]
+        self.assertGreater(strict,expanded)
+        self.assertAlmostEqual(strict,19.6502807943,places=6)
+        self.assertAlmostEqual(expanded,2.5423726537,places=6)
 if __name__=='__main__':unittest.main()
