@@ -1,0 +1,5 @@
+scenario,pre_rmspe_index_points,weights
+expanded_full,2.5423726537,Yantai:0.271199;Wuhan:0.728801
+drop_Wuhan,3.8729565062,Tianjin:0.317902;Nantong:0.682105
+drop_Yantai,2.8775949476,Tangshan:0.080756;Nantong:0.480773;Wuhan:0.438471
+drop_Wuhan_and_Yantai,3.8903883206,Tianjin:0.317882;Nantong:0.682118
