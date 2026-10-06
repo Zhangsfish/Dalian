@@ -1,0 +1,10 @@
+year,dalian_growth,wuhan_growth,qingdao_growth,outside_control_mean,dalian_minus_outside,event_gap_vs_2011,period
+2008,16.5,15.1,13.2,14.15,2.35,0.95,pre
+2009,15.0,13.7,12.2,12.95,2.05,0.65,pre
+2010,15.2,14.7,12.9,13.80,1.40,0.00,pre
+2011,13.5,12.5,11.7,12.10,1.40,0.00,pre
+2012,10.3,11.4,,,,-,transition_incomplete_control
+2013,9.0,10.0,10.0,10.00,-1.00,-2.40,post
+2014,5.8,9.7,8.0,8.85,-3.05,-4.45,post
+2015,4.2,8.8,8.1,8.45,-4.25,-5.65,post
+2016,6.5,7.8,7.9,7.85,-1.35,-2.75,post_extension
