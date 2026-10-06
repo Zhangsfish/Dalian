@@ -1,0 +1,9 @@
+region,year,record_type,own_general_budget_revenue_100m_cny,reported_tax_rebate_100m_cny,reported_general_transfer_100m_cny,reported_special_transfer_or_appropriation_100m_cny,reported_upper_resource_total_100m_cny,mixed_upper_and_transfer_in_100m_cny,definition,comparability_group,source_id,causal_ready,notes
+大连,2011,actual,651.03,7.69,,66.47,74.16,,中央税收净返还+执行中上级专项拨款等,legacy_upper_special_et_al,DLF2011,False,可证明绝对上级资源并非零；与2014后转移支付分类不完全同口径
+大连,2012,actual,750.11,6.20,,121.85,128.05,,中央税收净返还+执行中上级专项拨款等,legacy_upper_special_et_al,DLF2012,False,报告明确写积极争取中央和省支持；同年政府性基金收入下降56.3%
+大连,2013,actual,850.01,7.04,,,,224.04,中上级专项拨款及调入资金等混合项,mixed_not_comparable,DLF2013,False,224.04含调入资金；不可当纯上级转移
+大连,2014,actual,780.79,50.47,121.72,67.25,188.97,,中央和省税收返还及转移支付；报告将税收返还列在一般性转移支付121.72之内,clean_total_post2014,DLF2014,False,总额188.97可直接使用；分项定义与2015略有变化
+大连,2015,actual,579.87,53.09,76.34,68.67,198.10,,中央和省税收返还及转移支付；税收返还/一般/专项分列,clean_total_post2014,DLF2015,False,2014到2015名义总额增加约4.83%；不能由此排除相对资源损失或补偿性支持
+厦门,2012,actual,422.9089,,,35.0,,,中央财政下达转移支付35亿元；报告称同比增加9.5亿元增长37.3%,city_specific_not_crosscomparable,XMF2012,False,厦门披露中央财政转移支付而大连2012披露中央+上级专项等；不能直接比水平
+青岛,2012,actual,670.2,,,,,,报告称争取中央资金9.4亿元扶持科技创新型企业；非全口径转移支付,project_subsidy_only,QDF2012,False,只作机制线索；不是全市上级财政资源总额
+青岛,2014,actual,895.2,,,,25.5,,中央税收返还+各项体制结算收入=920.7-895.2；债券另计,mixed_settlement_not_comparable,QDF2014,False,25.5为算术差且混合体制结算；只作口径审计不用作资源比较
