@@ -1,0 +1,6 @@
+metric,value_pp,notes
+outside_relative_decline_2013_2015,-4.5667,Dalian relative to equal Wuhan-Qingdao mean; pre 2008-2011
+within_Liaoning_relative_decline_2013_2015,-1.4500,Dalian relative to Liaoning; same windows; Liaoning includes Dalian and may share treatment
+algebraic_regional_component_difference,-3.1167,outside decline minus within-Liaoning decline; NOT a causal contribution
+within_share_of_outside_magnitude,0.3175,1.45/4.5667; descriptive ratio only NOT political share
+regional_difference_share_of_outside_magnitude,0.6825,3.1167/4.5667; descriptive ratio only NOT Northeast causal share
