@@ -1,0 +1,10 @@
+event_id,region,event_or_project,sponsor_type,event_type,application_or_precursor,approval_or_announcement,construction_or_implementation,explicit_total_investment,unit,pre_or_post_2012,source_id,admissible_use,notes
+INTEL2007,大连,Intel Fab68 300mm晶圆厂,foreign_private,major_FDI_project,,2007-03-26,2007-09开工;2010投运,2.5,billion_USD,pre,INTEL2007,project_case_only,第一轮外资大项目基准；不是中央财政资源
+METRO2009,大连,城市轨道交通近期建设规划2009-2016,national_plan,State_Council_plan_approval,,2009-07,规划2009-2016建设1/2/4号线一期,,,pre,DL_METRO2009,national_approval_case,国家规划批准；不能把规划总规模当当年资源流
+NE2009,大连/辽宁沿海经济带,新一轮东北振兴及辽宁沿海经济带,national_policy,national_policy_support,,2009,持续实施,,,pre,NE_REVITAL2009,national_policy_case,支持大连两区一带和高技术产业基地；政策平台非现金拨款
+JINPU2014,大连,大连金普新区,national_platform,State_Council_approval,辽政〔2012〕309号请示,2014-06-23,2014后实施,,,post,JINPU2014,national_platform_case,2012后仍获国家级新区批准；申请具体日期待核
+INTEL2015,大连,Intel Fab68转3D NAND/非易失存储,foreign_private,major_FDI_reinvestment,,2015-10-20,2016后逐步量产,5.5,billion_USD,post,INTEL2015,project_case_only,Intel称未来数年最多投资55亿美元；不是一次性2015到位资金
+CBE2016,大连,中国（大连）跨境电子商务综合试验区,national_platform,State_Council_approval,,2016-01-17,2016后实施,,,post,CBE2016,national_platform_case,12个城市之一；证明国家级开放平台未完全中断
+DLFTZAPP,大连,大连自贸试验区申报,national_platform,application_process,2014年以来多轮修改;2016-03-25报国务院,2016-03-29转商务部研办,2017纳入辽宁自贸区,,,post,DLFTZ2016APP,application_timing_case,展示申报-研办-批复链条；不能把最终批复年份当资源到账年
+NE2016,大连/东北,新一轮东北振兴重要举措,national_policy,national_policy_support,,2016,持续实施,,,post,NE_REVITAL2016,national_policy_case,明确支持金普新区、大连东北亚国际航运中心和跨境电商综试区
+LNFTZ2017,大连,辽宁自贸试验区大连片区,national_platform,State_Council_plan_approval,大连方案2014年以来推进,2017-03-15,2017后实施,59.96,square_km,post,LNFTZ2017,national_platform_case,大连片区59.96平方公里；制度平台非直接投资
