@@ -1,0 +1,12 @@
+comparison,pre_window,post_window,pre_mean_gap_pp,post_mean_gap_pp,post_minus_pre_pp,interpretation
+Dalian_minus_equal_Wuhan_Qingdao,2008-2011,2013-2015,1.8000,-2.7667,-4.5667,descriptive_not_causal
+Dalian_minus_equal_Wuhan_Qingdao,2008-2011,2013-2016,1.8000,-2.4125,-4.2125,descriptive_not_causal
+Dalian_minus_Wuhan,2008-2011,2013-2015,1.0500,-3.1667,-4.2167,leave_one_control_out
+Dalian_minus_Wuhan,2008-2011,2013-2016,1.0500,-2.7000,-3.7500,leave_one_control_out
+Dalian_minus_Qingdao,2008-2011,2013-2015,2.5500,-2.3667,-4.9167,leave_one_control_out
+Dalian_minus_Qingdao,2008-2011,2013-2016,2.5500,-2.1250,-4.6750,leave_one_control_out
+Dalian_minus_Liaoning,2008-2011,2013-2015,1.9500,0.5000,-1.4500,regional_reference_not_independent_control
+Dalian_minus_Liaoning,2008-2011,2013-2016,1.9500,2.6250,0.6750,2016_anomaly_flips_sign
+outside_gap_linear_pretrend_adjusted,2008-2011,2013-2015,,, -2.9917,mean_actual_gap_minus_linear_pretrend_prediction
+outside_gap_linear_pretrend_adjusted,2008-2011,2013-2016,,, -2.4625,mean_actual_gap_minus_linear_pretrend_prediction
+pseudo_event_2010,2008-2009,2010-2011,2.2000,1.4000,-0.8000,weak_placebo_only_two_year_windows
