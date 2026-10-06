@@ -1,0 +1,12 @@
+region,years,variables,status,reason,next_step,lead_url
+大连,2011,GDP;FAI,excluded_forecast,2012政府工作报告为预计值14%及FAI30%;未充当实际公报,查同版历史年鉴或公报原件,https://www.ln.gov.cn/web/zwgkx/zfgzbg/shizfgzbg/dls/95244356E69E4E86BE9931F525DB8A3D/index.shtml
+大连,2011,GDP;FAI,primary_bulletin_not_recovered,公报镜像打开502；不以预测补数,恢复市统计局原公报或年鉴,https://www.tjcn.org/tjgb/06ln/24246.html
+大连,2012,GDP;FAI,mirror_search_only_excluded,镜像搜索缓存显示7002.8/10.3；正文未恢复未入主表,查原发布或同版回溯年鉴,https://www.tjcn.org/tjgb/06ln/26592.html
+大连,2017,GDP;FAI,official_page_fetch_failed,省门户链接连续内部错误,查年鉴替代官方发布,https://www.ln.gov.cn/web/zwgkx/tjgb2/shizfgzbg/dls/D134BEC6A12A498AA309A3CF48B24CEC/index.shtml
+辽宁,2005-2006;2017-2019,GDP;FAI,not_extracted_this_round,优先核对已获得大连配对年份,扩展年度公报或同版年鉴,
+青岛,2005-2010;2012;2014-2019,GDP;FAI,primary_panel_incomplete,部分官方链接失败；新闻与商业镜像仅作为线索,取得官方/原文转载或同版历史表,
+青岛,2014,GDP;FAI,commercial_mirror_excluded,镜像8692.1/8.0/5766/16.1未以官方正文复核；不入面板,以市统计局或青岛日报原公报复核,https://www.gcs66.com/document_detail/55883.html
+宁波;厦门;烟台,2005-2019,GDP;FAI,not_collected,本轮优先资料审计；供体不能由缺失强制替换,每城连续事前至少2005-2011及主要事后,
+重庆,2005-2019,GDP;FAI,treated_replication_pending,官方历史汇总链接两次超时；不是零效应证据,独立处理案例取原公报与可比内陆组,https://tjj.cq.gov.cn/zwgk_233/fdzdgknr/tjxx/rdsj_55470/202505/t20250520_14640030.html
+大连;供体,2005-2019,upper_level_transfers;central_project_disbursements,not_collected,直接政治资源流面板尚无,优先预算决算原表；不得用支出减收入,
+大连;供体,2005-2019,revised_GDP;revised_FAI,blocking,已收当年报告值不是统一修订版本,同版年鉴审计完成前不报政治系数或贡献率,
