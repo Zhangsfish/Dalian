@@ -54,11 +54,63 @@ The comparison with Chongqing provides an additional test of the conditional arg
 
 ## 3. Dalian, the 2012 Shock, and Research Design
 
-[CR-S04 drafting target]
+### 3.1 The political event and Dalian's historical connection
 
-## 4. Regional Slowdown and Dalian’s Relative Decline
+On 15 March 2012, China's central authorities announced that Bo Xilai would no longer serve as party secretary of Chongqing. His political position subsequently deteriorated further. The event mattered for Dalian because Bo's relationship with the city was unusually long. He entered Dalian's leadership in the late 1980s, became acting mayor in 1992, mayor in 1993 and municipal party secretary in 1999 before moving to provincial and national positions. During his Dalian years, the city pursued an activist development strategy centred on urban construction, development zones, investment promotion and large projects; Bo himself publicly described urban governance in terms of “managing the city” as a valuable public asset (People's Daily 2001).
 
-[CR-S04 drafting target]
+The 2012 event is therefore treated here as a sudden political shock to the value of a long-standing network, not as a simple policy intervention. Political networks are not directly observable binary treatments. They consist of relationships, information channels, reputational effects and coordinating capacity that may persist after an individual politician leaves office and may be partially replaced over time. The empirical question is consequently not whether every post-2012 change can be assigned to the event, but whether the spatial and temporal pattern of economic change is consistent with the channels through which such a network could plausibly matter.
+
+### 3.2 Data and comparison strategy
+
+The analysis combines annual city- and provincial-level macroeconomic data from official statistical bulletins, local fiscal reports, People's Bank of China financial materials, State Council and National Development and Reform Commission policy documents, and JETRO reports on Japanese investment in Dalian. The main growth series use real-GDP growth rates as reported in contemporaneous annual bulletins. This choice avoids mixing revised historical levels from different statistical vintages. Historical revisions are important in Chinese local data, particularly around economic censuses and later moves toward unified accounting, so nominal historical GDP levels are not used to construct the main post-2012 counterfactual.
+
+The primary external comparison uses Wuhan and Qingdao. Wuhan provides a large regional-centre benchmark with strong industrial and service activity, while Qingdao provides a coastal port and open industrial city with characteristics closer to Dalian's external orientation. Neither city is embedded in Liaoning's regional property, industrial and fiscal cycle. The article therefore begins with the annual difference between Dalian's real-GDP growth rate and the equal-weighted average of Wuhan and Qingdao. The main pre-event period is 2008–2011. The year 2012 is treated as a transition year because the political event occurred in March and annual data cannot cleanly separate pre- and post-event months. The primary post-event window is 2013–2015, allowing time for investment, credit and project channels to adjust.
+
+A second comparison places Dalian inside its regional context. Dalian is part of Liaoning, and the province's economy contains many of the same heavy-industry, property and fixed-investment exposures. The Dalian–Liaoning comparison is therefore not a conventional untreated control design. Liaoning also mechanically contains Dalian in the provincial aggregate. Its purpose is narrower and more useful for this article: to determine whether the slowdown is mainly a Dalian-specific break or part of a broader regional deterioration. If Dalian loses roughly the same amount of growth momentum as the rest of Liaoning, the case for a city-specific political explanation becomes weaker. If Dalian deteriorates much more than the province, the need for an additional city-specific mechanism becomes stronger.
+
+The analysis then follows the slowdown through several outcomes rather than relying on GDP alone. Real-estate and fixed-asset investment capture the regional investment regime. Secondary-industry growth, industrial revenue, industrial profit and construction output show whether the aggregate slowdown reaches the cash flows of capital-intensive firms. Bank-loan growth, non-performing loans and private investment capture financial amplification. Fiscal transfers, national policy platforms and major projects indicate whether visible public resources disappear at the same time. Japanese investment and new-project entry provide a slower-moving alternative explanation linked to Dalian's distinctive external economic structure.
+
+Finally, Chongqing is used as a parallel exposed case rather than as part of Dalian's donor pool. Bo Xilai was serving as Chongqing party secretary when the 2012 event occurred, making Chongqing more directly exposed to the immediate political rupture. Yet Chongqing had a different administrative status, industrial structure and investment cycle. The comparison therefore asks whether a similar political shock produces a similar macroeconomic trajectory when the underlying local growth regime differs.
+
+### 3.3 Interpretation and inference
+
+The principal statistics are changes in relative growth gaps before and after 2012, annual trajectories and cross-outcome timing. With one core case and a small number of comparison cities, conventional large-sample inference is not especially informative (Conley and Taber 2011; Ferman and Pinto 2019). The article therefore places more weight on whether the result survives alternative external benchmarks, whether the timing of the break is visible in annual data, and whether independent mechanism variables move at the same spatial level.
+
+The supplementary material reports Wuhan-only and Qingdao-only comparisons, alternative windows, pre-trend extrapolation, data-vintage checks and synthetic-control feasibility diagnostics. Synthetic control is not used as the main causal estimator because historical city GDP series are affected by non-synchronous statistical revisions. The main text instead uses transparent comparisons whose assumptions and limitations are directly visible to the reader.
+
+This design supports three distinct levels of inference. It can establish whether Dalian slowed relative to relevant external cities; it can locate how much of that slowdown coincided with a wider Liaoning decline; and it can identify which economic channels changed in ways consistent with regional transmission or local amplification. It cannot, on aggregate annual data alone, assign a precise treatment effect to the loss of political-network value. The article's contribution lies in narrowing the plausible mechanisms and showing how political and economic conditions interacted.
+
+## 4. Regional Slowdown and Dalian's Relative Decline
+
+### 4.1 The external growth reversal
+
+Dalian's post-2012 slowdown is large enough to require explanation. Between 2008 and 2011, its real-GDP growth rate exceeded the equal-weighted Wuhan–Qingdao benchmark by an average of 1.80 percentage points. In 2013–2015, the sign reversed: Dalian grew on average 2.77 percentage points more slowly than the same benchmark. The change in the relative gap is therefore approximately −4.57 percentage points.
+
+The annual pattern is more informative than the before–after average. Dalian still grew by 9.0 per cent in 2013, compared with 10.0 per cent in both Wuhan and Qingdao. The divergence widened in 2014, when Dalian grew by 5.8 per cent against 9.7 per cent in Wuhan and 8.0 per cent in Qingdao, and widened again in 2015, when Dalian grew by 4.2 per cent against 8.8 and 8.1 per cent respectively. The main break is therefore concentrated in 2014–2015 rather than appearing as an immediate one-year collapse in 2012.
+
+**[Figure 1 about here: Dalian's relative growth slowdown and nested regional gap]**
+
+The result is not driven by a single comparison city. Using Wuhan alone produces a pre/post relative deterioration of about 4.22 percentage points; using Qingdao alone produces a deterioration of about 4.92 points. A linear extrapolation of the 2008–2011 pre-event relative trend also leaves a substantial negative residual in 2013–2015. These checks are reported in the supplementary material because the substantive point is stable: Dalian experienced an unusually sharp loss of growth momentum relative to external cities, especially from 2014 onward.
+
+### 4.2 Most of the divergence appears at the regional level
+
+The comparison with Liaoning changes the interpretation of this slowdown. In 2008–2011, Dalian grew on average 1.95 percentage points faster than Liaoning as a whole. In 2013–2015, it still grew about 0.50 percentage points faster. Its relative deterioration against the province was therefore approximately −1.45 percentage points—substantially smaller than the −4.57-point deterioration against Wuhan and Qingdao.
+
+This does not mean that “Liaoning caused Dalian's slowdown.” Dalian is part of Liaoning, and the provincial aggregate is not an independent control. The comparison shows something more specific: much of the change that makes Dalian look exceptional against outside cities was also occurring elsewhere in its regional economic environment. In 2014, Dalian and Liaoning both reported real-GDP growth of 5.8 per cent, while the Wuhan–Qingdao average was about 8.9 per cent. In 2015, Dalian grew by 4.2 per cent and Liaoning by 3.0 per cent. Dalian was still outperforming the province even as both fell well behind the external benchmark.
+
+The spatial pattern therefore suggests two layers of adjustment. The larger layer is a Liaoning-wide loss of growth momentum relative to outside cities. A smaller layer remains specific to Dalian. This distinction is important because the political-network argument is most plausible as an explanation for the second layer, whereas the first requires a mechanism operating across the regional economy.
+
+### 4.3 The regional investment regime turns
+
+Real-estate and fixed-asset investment provide that regional mechanism. In 2013, real-estate development investment was still expanding rapidly in both Dalian and Liaoning, by 22.5 and 18.2 per cent respectively. In 2014, both turned sharply negative: −16.4 per cent in Dalian and −17.8 per cent in Liaoning. The contrast with external cities is striking. Wuhan's real-estate investment still grew by 23.5 per cent in 2014, while Qingdao's grew by 6.6 per cent.
+
+The similarity extends beyond growth rates. Real-estate development accounted for 26.4 per cent of Dalian's fixed-asset investment in 2013 and 26.0 per cent of Liaoning's; in 2014 the shares were 21.1 and 21.7 per cent. By 2015, fixed-asset investment had fallen by 32.7 per cent in Dalian and 27.8 per cent in Liaoning, while real-estate investment fell by roughly 37.2 and 32.9 per cent. Indexing 2013 investment levels to 100 leaves Dalian and Liaoning at approximately 70 and 71 for total fixed investment by 2015, and about 53 and 55 for real-estate investment.
+
+**[Figure 2 about here: The regional investment regime turns down]**
+
+Property is therefore important but not sufficient to explain the full collapse. Between 2013 and 2015, the decline in real-estate investment accounted for roughly 42 per cent of the fall in Dalian's total fixed-asset investment and about 40 per cent of Liaoning's. During the most severe 2014–2015 contraction, those ratios were only about one quarter. By 2015, the downturn had spread from property into a broader contraction in construction and industrial investment.
+
+The combined GDP and investment evidence clarifies what is meant by a “regional shock” in this article. It is not a causal claim running from the provincial government to Dalian. It is a shared exposure to an investment-led growth regime that was weakening across Liaoning at roughly the same time. Dalian's post-2012 performance becomes easier to understand once this common regional transition is separated from the additional city-specific deterioration examined in the next section.
 
 ## 5. From Industrial Cash Flow to Credit Contraction
 
