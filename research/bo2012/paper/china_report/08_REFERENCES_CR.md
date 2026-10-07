@@ -32,6 +32,8 @@ Xu, Chenggang. 2011. “The Fundamental Institutions of China’s Reforms and De
 
 ## Institutional and historical sources
 
+Ministry of Finance of the People's Republic of China. 2017. “财政部有关负责人就辽宁省财政数据造假问题答记者问 [Ministry of Finance Official Responds to Questions on Liaoning Fiscal Data Fabrication].” January 20. https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/201701/t20170120_2524620.htm.
+
 People's Daily. 2001. “如何经营城市这份国有资产——薄熙来访谈录 [How to Manage the City as a State-Owned Asset: An Interview with Bo Xilai].” May 14, 5. https://cn.govopendata.com/renminribao/2001/05/14/5/.
 
 People's Daily Online. 2013. “薄熙来案一审判决书全文 [Full Text of the First-Instance Judgment in the Bo Xilai Case].” September 22. https://fanfu.people.com.cn/n/2013/0922/c64371-22993179.html.
