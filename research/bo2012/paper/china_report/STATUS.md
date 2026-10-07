@@ -3,7 +3,7 @@
 更新时间：2026-10-08
 
 ## 当前状态
-**CR-S03 COMPLETE / CR-S04 IN PROGRESS**
+**CR-S04 DRAFT V1 COMPLETE / CR-S05 IN PROGRESS**
 
 已完成：
 - 官方投稿要求完整阅读；
@@ -57,5 +57,15 @@ Working title:
 **CR-S03 COMPLETE**
 
 ## CR-S04
-Current task: English adaptation draft, section by section.
-Next unit: Sections 1–2.
+- [x] Sections 1–2
+- [x] Sections 3–4
+- [x] Sections 5–6
+- [x] Sections 7–9
+
+**English adaptation draft v1 complete.**
+
+## CR-S05
+Current task:
+- literature expansion for China local political economy;
+- Chicago reference normalization;
+- citation ↔ reference bidirectional audit.
