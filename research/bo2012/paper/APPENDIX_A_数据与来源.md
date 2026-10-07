@@ -7,6 +7,7 @@
 | 实际GDP增速 | 省外基准、趋势、供体剔除 | ../data/official_growth_panel_s02d.csv | 大连、武汉、青岛历年统计公报；2011大连为统计公报镜像并经独立材料交叉核验 |
 | 辽宁区域参照 | 区域嵌套分解、窗口敏感性 | ../data/panel_as_reported.csv | 大连与辽宁历年统计公报 |
 | 房地产与投资 | 区域投资机制 | ../data/real_estate_land_s03a.csv；../data/real_estate_investment_panel_s03a.csv | 各地统计公报、政府工作报告、辽宁财政资料 |
+| GDP产业构成与工业现金流 | 实体利润→信用机制 | ../data/sector_cashflow_supplement.csv | 大连、辽宁2013—2015统计公报；同期金融统计 |
 | 银行信贷与不良率 | 信用机制 | ../data/credit_s03c.csv；../data/credit_panel_s03b.csv | 各地统计公报、中国人民银行地方金融资料 |
 | 民间投资 | 私人投资机制 | ../data/private_investment_s03c.csv | 大连、武汉、青岛政府/统计资料 |
 | 融资结构 | 银行与直接融资分层 | ../data/financing_structure_s03d.csv；../data/financing_substitution_s03c.csv | 大连统计公报、人民银行大连中心支行报告、政府工作报告 |
@@ -29,6 +30,7 @@
 | 图4 | figures/fig06_outside_vs_liaoning_gap.svg | official_growth_panel_s02d.csv + panel_as_reported.csv |
 | 图5 | figures/fig07_real_estate_growth.svg | real_estate_investment_panel_s03a.csv |
 | 图6 | figures/fig08_investment_index.svg | real_estate_investment_panel_s03a.csv |
+| 图6A | figures/fig06A_sector_cashflow.svg | sector_cashflow_supplement.csv |
 | 图7 | figures/fig09_credit_growth_gap.svg | credit_s03c.csv |
 | 图8 | figures/fig10_npl_ratio.svg | credit_s03c.csv |
 | 图9 | figures/fig11_upper_fiscal_resources.svg | fiscal_resource_audit.csv |
