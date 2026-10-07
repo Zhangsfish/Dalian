@@ -1,0 +1,13 @@
+dimension,specification,result_pp,interpretation
+outside_control,Equal_Wuhan_Qingdao_2008_2011_vs_2013_2015,-4.5667,main_outside_anomaly
+outside_control,Wuhan_only,-4.2167,leave_one_control_out
+outside_control,Qingdao_only,-4.9167,leave_one_control_out
+outside_control,linear_pretrend_adjusted_2013_2015,-2.9917,actual_minus_pretrend_prediction
+outside_control,pseudo_event_2008_2009_vs_2010_2011,-0.8000,weak_pre_event_placebo
+within_Liaoning,pre_2007_2010_post_2013_2015,-1.8500,window_sensitivity
+within_Liaoning,pre_2008_2010_post_2013_2015,-1.6333,window_sensitivity
+within_Liaoning,pre_2009_2010_post_2013_2015,-1.0000,window_sensitivity
+within_Liaoning,leave_out_2007,-1.6333,leave_one_pre_year_out
+within_Liaoning,leave_out_2008,-1.5000,leave_one_pre_year_out
+within_Liaoning,leave_out_2009,-2.0000,leave_one_pre_year_out
+within_Liaoning,leave_out_2010,-2.2667,leave_one_pre_year_out
