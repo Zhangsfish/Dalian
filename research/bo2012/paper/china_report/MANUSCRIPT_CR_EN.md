@@ -48,7 +48,15 @@ This distinction leads to the article's central concept of **local economic vuln
 
 Dalian is particularly useful for examining this interaction because several potential mechanisms overlap. One is the broader Liaoning and Northeast investment cycle. If Dalian's slowdown mainly reflects a regional real-estate, heavy-industry and fixed-investment downturn, its investment path should closely resemble Liaoning's and its deterioration relative to the province should be much smaller than its deterioration relative to external cities. A second mechanism is Dalian's specific exposure to Japanese manufacturing, trade and business networks. A gradual decline in new Japanese projects could weaken a long-standing source of incremental growth, but it would be less convincing as an explanation for a sudden 2014 break if actual investment and incumbent activity remained substantial. A third mechanism is the interaction between deteriorating industrial earnings and credit risk. If this channel is important, weakening industrial revenue and profits should precede or accompany rising non-performing loans, slower bank-credit growth and weaker private investment.
 
-**[Table 1 about here: Mechanisms, observable implications and evidence]**
+**Table 1. Mechanisms, Observable Signatures and Empirical Tests**
+
+| Mechanism | Observable signature | Main test |
+|---|---|---|
+| Regional investment and property cycle | Dalian and Liaoning weaken together in real estate, fixed investment and secondary industry; divergence from outside cities is larger than divergence within Liaoning | Sections 4-5 |
+| Marginal coordination and bank credit | Dalian bank-credit growth weakens relative to Liaoning as industrial earnings and asset quality deteriorate; private investment also weakens | Section 5 |
+| Visible public-resource withdrawal | If formal political access collapses, comparable fiscal transfers, national platforms and major projects should weaken during the slowdown | Section 6 |
+| Japanese structural exposure | New Japanese project entry weakens persistently; an abrupt 2014 trigger would require contemporaneous withdrawal of actual investment | Section 6 |
+| State-dependent political effects | A political rupture produces different macroeconomic consequences when local investment and credit regimes differ | Section 7 |
 
 These mechanisms generate different empirical signatures. A broad loss of formal political access should appear in fiscal transfers, national policy designations and major projects. A regional investment downturn should appear simultaneously in Dalian and Liaoning. A Dalian-specific financial amplification should appear in credit, asset quality and private investment relative to the province. A slow-moving external-structure explanation should evolve more gradually than the 2014–2015 break. The article therefore does not rely on a single post-2012 coefficient to separate these explanations. It compares where, when and through which channels the deterioration appears.
 
@@ -100,7 +108,16 @@ The comparison with Liaoning changes the interpretation of this slowdown. In 200
 
 This does not mean that “Liaoning caused Dalian's slowdown.” Dalian is part of Liaoning, and the provincial aggregate is not an independent control. The comparison shows something more specific: much of the change that makes Dalian look exceptional against outside cities was also occurring elsewhere in its regional economic environment. In 2014, Dalian and Liaoning both reported real-GDP growth of 5.8 per cent, while the Wuhan–Qingdao average was about 8.9 per cent. In 2015, Dalian grew by 4.2 per cent and Liaoning by 3.0 per cent. Dalian was still outperforming the province even as both fell well behind the external benchmark.
 
-**[Table 2 about here: Core relative-growth results]**
+**Table 2. Core Relative-Growth Results**
+
+| Comparison | Pre mean gap, 2008-2011 (pp) | Post mean gap, 2013-2015 (pp) | Change (pp) | Role |
+|---|---:|---:|---:|---|
+| Dalian vs Wuhan-Qingdao | +1.80 | -2.77 | **-4.57** | Primary external benchmark |
+| Dalian vs Wuhan | +1.05 | -3.17 | **-4.22** | Single-benchmark sensitivity |
+| Dalian vs Qingdao | +2.55 | -2.37 | **-4.92** | Single-benchmark sensitivity |
+| Dalian vs Liaoning | +1.95 | +0.50 | **-1.45** | Nested regional context |
+
+*Note:* Values are percentage-point differences in annual real-GDP growth. The year 2012 is treated as a transition year and excluded from the main pre/post means.
 
 The spatial pattern therefore suggests two layers of adjustment. The larger layer is a Liaoning-wide loss of growth momentum relative to outside cities. A smaller layer remains specific to Dalian. This distinction is important because the political-network argument is most plausible as an explanation for the second layer, whereas the first requires a mechanism operating across the regional economy.
 
@@ -188,7 +205,18 @@ The comparison also clarifies what “local vulnerability” means in this artic
 
 ## 8. Discussion and Limitations
 
-**[Table 3 about here: Mechanism evidence summary]**
+**Table 3. Mechanism Evidence Summary**
+
+| Evidence domain | Key observation | Interpretation |
+|---|---|---|
+| Regional investment | Dalian and Liaoning real-estate investment turned sharply negative in 2014; 2015 FAI fell 32.7% and 27.8% respectively | Strong evidence of a shared regional investment downturn |
+| Industrial earnings | Dalian secondary-industry growth fell from 9.4% in 2013 to 0.9% in 2015; industrial revenue and profit fell 27.4% and 30.7% in 2015 | Aggregate slowdown concentrated in capital-intensive activity |
+| Bank credit and asset quality | Dalian loan growth fell from 11.6% in 2013 to 6.5% in 2015 while the NPL ratio rose from 1.07% to 2.16% | Consistent with local financial amplification; aggregate data do not separate supply from demand |
+| Formal public resources | Comparable central/provincial transfers rose about 4.8% from 2014 to 2015; national platforms and major projects continued | No observed collapse in these formal channels during the key slowdown; not proof of unchanged pre-2012 access |
+| Japanese exposure | New Japanese projects fell from 136 in 2012 to 47 in 2015, but actual Japanese FDI remained about US$2.54bn in 2014 | Slow-moving structural headwind rather than a clear 2014 trigger |
+| Chongqing comparison | Chongqing retained a positive relative GDP gap and double-digit loan/FAI growth after 2012 | Supports a state-dependent interpretation; not a same-treatment control |
+
+*Note:* “Consistent with” indicates mechanism-compatible observational evidence rather than an identified causal mediation effect.
 
 The evidence changes the interpretation of Dalian's post-2012 slowdown in two important ways. First, it moves the centre of explanation away from a person-specific account. Dalian did experience a pronounced relative slowdown, but most of the external growth-gap reversal occurred alongside a wider Liaoning downturn in property, fixed investment and secondary industry. The political event remains relevant because it may have altered the city's ability to manage adjustment, not because it plausibly created the regional investment cycle.
 
@@ -216,6 +244,52 @@ For Dalian, the 2012 political shock may therefore have changed the friction of 
 
 ---
 
+## Figure Captions
+
+**Figure 1. Dalian's Relative Growth Slowdown after 2012.** Panel A reports contemporaneous official real-GDP growth rates for Dalian, Wuhan and Qingdao. Panel B reports Dalian's annual growth-rate gap relative to the equal-weighted Wuhan-Qingdao benchmark and relative to Liaoning. Qingdao's 2012 value is excluded because the available source is a forecast rather than an observed annual result. Liaoning contains Dalian and is used as a nested regional benchmark, not an untreated control. Source: annual statistical bulletins and official annual reports; authors' calculations.
+
+**Figure 2. The Regional Investment Regime Turns Down.** Panel A reports real-estate development investment growth. Panel B indexes 2013 fixed-asset and real-estate investment levels to 100 for Dalian and Liaoning. The 2015 Liaoning real-estate growth rate is derived from reported investment levels. Source: statistical bulletins and government reports; authors' calculations.
+
+**Figure 3. Sectoral Slowdown and Industrial Earnings Stress in Dalian.** Panel A reports real-GDP, secondary-industry and tertiary-industry growth. Panel B reports growth in above-scale industrial main-business revenue, industrial profit and construction output. Revenue and profit are operating-performance measures rather than direct firm cash-flow measures. Source: Dalian annual statistical bulletins, 2013-2015.
+
+**Figure 4. Bank-Credit Growth and Asset-Quality Deterioration.** Panel A reports growth in outstanding bank loans for Dalian and Liaoning. Panel B reports Dalian's non-performing-loan ratio. Aggregate loan data do not distinguish credit-supply changes from borrowing-demand changes. Source: Dalian and Liaoning statistical bulletins and People's Bank of China financial materials; authors' calculations.
+
+**Figure 5. The 2012 Political Rupture and Different Local Trajectories: Dalian and Chongqing.** Panel A reports Dalian's growth gap relative to Wuhan-Qingdao and Chongqing's growth gap relative to Chengdu-Wuhan. Panel B compares bank-loan growth. Panel C compares fixed-asset-investment growth. Chongqing is a parallel exposed case, not a matched or untreated control. Source: annual statistical bulletins and financial materials; authors' calculations.
+
+---
+
 ## References
 
-[CR-S05]
+Abadie, Alberto. 2021. “Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects.” *Journal of Economic Literature* 59 (2): 391–425. https://doi.org/10.1257/jel.20191450.
+
+Abadie, Alberto, Alexis Diamond, and Jens Hainmueller. 2010. “Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California’s Tobacco Control Program.” *Journal of the American Statistical Association* 105 (490): 493–505. https://doi.org/10.1198/jasa.2009.ap08746.
+
+Cai, Weixing, Fangming Xu, and Cheng Zeng. 2017. “Does Political Pressure Matter in Bank Lending? Evidence from China.” *Financial Markets, Institutions & Instruments* 26 (5): 249–277. https://doi.org/10.1111/fmii.12089.
+
+Conley, Timothy G., and Christopher R. Taber. 2011. “Inference with ‘Difference in Differences’ with a Small Number of Policy Changes.” *Review of Economics and Statistics* 93 (1): 113–125. https://doi.org/10.1162/REST_a_00049.
+
+Ding, Haoyuan, Yichuan Hu, Kenneth A. Kim, and Mi Xie. 2023. “Relationship-Based Debt Financing of Chinese Private Sector Firms: The Role of Social Connections to Banks versus Political Connections.” *Journal of Corporate Finance* 78: 102335. https://doi.org/10.1016/j.jcorpfin.2022.102335.
+
+Ferman, Bruno, and Cristine Pinto. 2019. “Inference in Differences-in-Differences with Few Treated Groups and Heteroskedasticity.” *Review of Economics and Statistics* 101 (3): 452–467. https://doi.org/10.1162/rest_a_00759.
+
+Jia, Ruixue, Masayuki Kudamatsu, and David Seim. 2015. “Political Selection in China: The Complementary Roles of Connections and Performance.” *Journal of the European Economic Association* 13 (4): 631–668. https://doi.org/10.1111/jeea.12124.
+
+Jiang, Junyan, and Muyang Zhang. 2020. “Friends with Benefits: Patronage Networks and Distributive Politics in China.” *Journal of Public Economics* 184: 104143. https://doi.org/10.1016/j.jpubeco.2020.104143.
+
+Li, Hongbin, and Li-An Zhou. 2005. “Political Turnover and Economic Performance: The Incentive Role of Personnel Control in China.” *Journal of Public Economics* 89 (9–10): 1743–1762. https://doi.org/10.1016/j.jpubeco.2004.06.009.
+
+Oi, Jean C. 1992. “Fiscal Reform and the Economic Foundations of Local State Corporatism in China.” *World Politics* 45 (1): 99–126. https://doi.org/10.2307/2010520.
+
+Persson, Petra, and Ekaterina Zhuravskaya. 2016. “The Limits of Career Concerns in Federalism: Evidence from China.” *Journal of the European Economic Association* 14 (2): 338–374. https://doi.org/10.1111/jeea.12142.
+
+Walder, Andrew G. 1995. “Local Governments as Industrial Firms: An Organizational Analysis of China’s Transitional Economy.” *American Journal of Sociology* 101 (2): 263–301. https://doi.org/10.1086/230725.
+
+Xu, Chenggang. 2011. “The Fundamental Institutions of China’s Reforms and Development.” *Journal of Economic Literature* 49 (4): 1076–1151. https://doi.org/10.1257/jel.49.4.1076.
+
+Ministry of Finance of the People's Republic of China. 2017. “财政部有关负责人就辽宁省财政数据造假问题答记者问 [Ministry of Finance Official Responds to Questions on Liaoning Fiscal Data Fabrication].” January 20. https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/201701/t20170120_2524620.htm.
+
+People's Daily. 2001. “如何经营城市这份国有资产——薄熙来访谈录 [How to Manage the City as a State-Owned Asset: An Interview with Bo Xilai].” May 14, 5. https://cn.govopendata.com/renminribao/2001/05/14/5/.
+
+People's Daily Online. 2013. “薄熙来案一审判决书全文 [Full Text of the First-Instance Judgment in the Bo Xilai Case].” September 22. https://fanfu.people.com.cn/n/2013/0922/c64371-22993179.html.
+
+Xinhua News Agency. 2012. “重庆市委主要负责同志职务调整 [Leadership Adjustment of the Chongqing Municipal Party Committee].” March 15. Reproduced in *Global People*, March 26. https://paper.people.com.cn/hqrw/html/2012-03/26/content_1030196.htm?div=-1.
