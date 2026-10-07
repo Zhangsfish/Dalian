@@ -12,7 +12,7 @@
 
 ## 当前状态
 
-**S05 已完成。**
+**S05 已完成并通过最终审计，专项研究封板。**
 
 主结论：
 
@@ -33,6 +33,8 @@
 - S02 供体、财政、治理、官方多对照：`reports/04—08`
 - S03 竞争机制：地产、对日、信用、融资、重庆平行案例：`reports/09—14`
 - S05 最终综合：`reports/15_S05_FINAL_SYNTHESIS.md`
+- S05 最终审计：`reports/16_S05_FINAL_AUDIT.md`
+- 文章候选侧栏：`ARTICLE_INSERT_如果真的是薄熙来.md`
 
 ## 最推荐先读
 
@@ -42,6 +44,8 @@
 4. `reports/11_S03A_C_CREDIT_AND_PRIVATE_INVESTMENT.md`
 5. `reports/14_S03C_CHONGQING_PARALLEL_CASE.md`
 6. `reports/15_S05_FINAL_SYNTHESIS.md`
+7. `reports/16_S05_FINAL_AUDIT.md`
+8. `ARTICLE_INSERT_如果真的是薄熙来.md`
 
 ## 停止规则
 
