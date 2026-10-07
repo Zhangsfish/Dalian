@@ -1,0 +1,15 @@
+year,measure,value,unit,source_id,comparability,interpretation
+2013,total_social_financing_increment,2124.3,100m_cny,DL2013SOCFIN,year_specific_official_report,People's Bank Dalian financial-service report
+2013,bank_loan_increment,1055.2,100m_cny,DL2013CREDIT,comparable_bank_increment,bank lending roughly half of total social financing
+2013,enterprise_debt_financing_tools,488.5,100m_cny,DL2013SOCFIN,year_specific_official_report,direct debt channel active
+2013,enterprise_bond_financing,542.2,100m_cny,DL2013,bulletin_definition,39 enterprise issuances; growth 33.4%
+2013,microloan_balance,67.8,100m_cny,DL2013,bulletin_definition,growth 15.9%
+2014,new_credit_and_financing,2638,100m_cny,DL2014FINANCE,government_work_report_broad_metric,not identical to formal social-financing definition
+2014,bank_loan_increment,755.5,100m_cny,DL2014CREDIT,comparable_bank_increment,
+2014,enterprise_bond_financing,665.3,100m_cny,DL2014,bulletin_definition,growth 22.7%
+2014,microloan_balance,78.3,100m_cny,DL2014,bulletin_definition,growth 15.5%
+2015,bank_loan_increment,709.9,100m_cny,DL2015CREDIT,comparable_bank_increment,
+2015,enterprise_bond_financing,2614,100m_cny,DL2015FINANCE,scope_break_warning,government report says 10.6x growth but definition is inconsistent with 2014 bulletin and cannot be chained
+2015,dalian_bank_strategic_investment,150,100m_cny,DL2015FINANCE,project_case_only,capital injection/strategic investment not economy-wide finance
+2011_2015,cumulative_social_financing,10000_plus,100m_cny,DL2015FINANCE,multiyear_aggregate_only,cannot allocate to individual years
+2015,Liaoning_social_financing_increment,6194,100m_cny,LN2015SOCFIN,province_scope,loan share 50.5%; direct financing 1001
