@@ -1,0 +1,16 @@
+metric,value,interpretation
+dalian_loan_growth_2013_pct,11.5578,与外部控制几乎持平
+dalian_loan_growth_2014_pct,7.4040,明显减速
+dalian_loan_growth_2015_pct,6.4710,继续低位
+liaoning_loan_growth_2013_pct,12.7644,
+liaoning_loan_growth_2014_pct,10.8450,
+liaoning_loan_growth_2015_pct,9.8194,
+dalian_minus_liaoning_2013_pp,-1.2067,2013已有小幅相对弱
+dalian_minus_liaoning_2014_pp,-3.4410,2014差距扩大
+dalian_minus_liaoning_2015_pp,-3.3484,2015持续
+dalian_minus_external_mean_2013_pp,0.0180,武汉青岛均值
+dalian_minus_external_mean_2014_pp,-3.5926,武汉青岛均值
+dalian_minus_external_mean_2015_pp,-7.6964,武汉2015贷款增长很强导致差距扩大
+dalian_loan_balance_change_2012_2015_pct,28.1904,用公开年末余额
+liaoning_loan_balance_change_2012_2015_pct,37.9203,用公开年末余额
+credit_supply_identification,NOT_IDENTIFIED,贷款弱可能来自供给收紧也可能来自需求地产和产业下行或风险上升
