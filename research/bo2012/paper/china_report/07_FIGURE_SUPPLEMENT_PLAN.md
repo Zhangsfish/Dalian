@@ -55,7 +55,7 @@ Panel B:
 
 核心信息：
 - services remain relatively resilient;
-- capital-intensive sectors and firm cash flow collapse.
+- capital-intensive sectors and firm operating performance collapse.
 
 ---
 
@@ -137,7 +137,7 @@ Panel C:
 ### Table 3｜Mechanism Summary
 列：
 - regional investment
-- industrial cash flow
+- industrial revenues and profits
 - bank credit / NPL
 - formal public resources
 - Japan exposure
