@@ -1,0 +1,6 @@
+quantity,value_pp_or_pct,meaning,causal_status
+dalian_vs_wuhan_qingdao_prepost_change_2013_2015,-4.5667,大连相对两个省外参照的描述性增长优势变化,not_causal
+dalian_vs_liaoning_prepost_change_2013_2015,-1.45,大连相对辽宁的描述性增长优势变化,not_causal
+regional_overlap_arithmetic,3.1167,4.5667减1.45的纯算术重叠提示,not_causal
+dalian_specific_fraction_of_raw_gap,31.75,1.45除以4.5667；只用于描述规模感,not_causal_not_political_share
+regional_overlap_fraction_of_raw_gap,68.25,3.1167除以4.5667；不得称东北贡献率,not_causal_not_regional_share
