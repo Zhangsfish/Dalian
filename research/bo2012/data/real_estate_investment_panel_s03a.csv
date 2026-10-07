@@ -1,0 +1,12 @@
+region,year,real_estate_investment_100m_cny,real_estate_growth_pct,total_fai_100m_cny,total_fai_growth_pct,real_estate_share_of_fai_pct,source_id,admissible_use
+大连,2013,1710.4,22.5,6478.1,15.2,26.4028,DL2013,mechanism_comparison
+大连,2014,1429.3,-16.4,6773.6,4.6,21.1010,DL2014,mechanism_comparison
+大连,2015,897.5,-37.2,4559.3,-32.7,19.6850,DL2015RE,mechanism_comparison
+辽宁,2013,6450.8,18.2,24791.4,15.1,26.0203,LN2013,regional_common_shock_reference
+辽宁,2014,5301.3,-17.8,24426.8,-1.5,21.7028,LN2014,regional_common_shock_reference
+辽宁,2015,3558.7,-32.8712,17640.4,-27.8,20.1736,LN2015,regional_common_shock_reference
+武汉,2013,1905.6,21.0,,, ,WH2013RE,external_control_reference
+武汉,2014,2353.63,23.5,,, ,WH2014RE,external_control_reference
+武汉,2015,2581.79,9.7,,, ,WH2015RE,external_control_reference
+青岛,2013,1048.5,12.7,,21.1,,QD2013RE,external_control_reference
+青岛,2014,1117.7,6.6,,16.1,,QD2014RE,external_control_reference
