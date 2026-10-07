@@ -3,7 +3,7 @@
 更新时间：2026-10-08
 
 ## 当前状态
-**CR-S00 COMPLETE**
+**CR-S01 IN PROGRESS**
 
 已完成：
 - 官方投稿要求完整阅读；
@@ -31,12 +31,16 @@ Working title:
 核心 argument:
 **The macroeconomic consequences of political network shocks are conditional on local structural vulnerability.**
 
-## 下一步
-**CR-S01**
-- title options
-- structured abstract v1
-- 5–6 keywords
-- positioning memo
-- journal-fit rationale
+## CR-S01 进度
+- [x] CR-S01A：Title selection
+- [ ] CR-S01B：Structured abstract v1
+- [ ] CR-S01C：Keywords
+- [ ] CR-S01D：Positioning memo + journal-fit rationale
 
-未授权进入 CR-S02 之前，不重写全文。
+当前 Working Title：
+**Political Network Shocks and Local Economic Vulnerability: Evidence from Dalian after 2012**
+
+## 下一步
+只做 **CR-S01B：150–200词 structured abstract v1**。
+
+未完成 CR-S01 前，不进入 CR-S02，不重写全文。
