@@ -48,3 +48,15 @@
 - 核心数字已独立重算，并新增验证脚本
 - 下一步仅保留：图形生成脚本化、统一vintage数据或微观信贷等真正新增识别
 
+
+
+## China Report 投稿适配
+
+目标期刊：**China Report（SAGE）**
+
+- [官方要求冻结版](./china_report/00_REQUIREMENTS.md)
+- [当前稿 Gap Analysis](./china_report/01_GAP_ANALYSIS.md)
+- [分阶段 SOP](./china_report/SOP.md)
+- [当前状态](./china_report/STATUS.md)
+
+当前：**CR-S00 COMPLETE**。下一步只进入 **CR-S01：题目、150–200词 structured abstract、5–6 keywords、positioning memo**。
