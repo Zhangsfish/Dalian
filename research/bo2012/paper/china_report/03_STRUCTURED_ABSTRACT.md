@@ -14,7 +14,7 @@ Working title:
 
 **Conclusion:** Political network shocks do not translate mechanically into local economic decline. Their macroeconomic consequences depend on the structural vulnerability of local investment regimes, corporate cash flow and credit systems.
 
-Word count: 181.
+Word count: 178.
 
 ## Notes
 
