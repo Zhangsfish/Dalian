@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="650" viewBox="0 0 1180 650">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#222}.t{font-size:25px;font-weight:650}.s{font-size:15px}.h{font-size:17px;font-weight:600}.axis{stroke:#555;stroke-width:1}.grid{stroke:#ddd;stroke-width:1}.actual{fill:none;stroke:#111;stroke-width:3}.trend{fill:none;stroke:#888;stroke-width:2;stroke-dasharray:8 6}.event{stroke:#777;stroke-width:1.5;stroke-dasharray:5 5}</style>
+<text x="75" y="38" class="t">图5｜大连相对省外参照的年度差值与事前趋势外推</text>
+<line x1="85" y1="515" x2="1090" y2="515" class="grid"/><text x="73" y="520" text-anchor="end" class="s">−5pp</text>
+<line x1="85" y1="455" x2="1090" y2="455" class="grid"/><text x="73" y="460" text-anchor="end" class="s">−4pp</text>
+<line x1="85" y1="395" x2="1090" y2="395" class="grid"/><text x="73" y="400" text-anchor="end" class="s">−3pp</text>
+<line x1="85" y1="335" x2="1090" y2="335" class="grid"/><text x="73" y="340" text-anchor="end" class="s">−2pp</text>
+<line x1="85" y1="275" x2="1090" y2="275" class="grid"/><text x="73" y="280" text-anchor="end" class="s">−1pp</text>
+<line x1="85" y1="215" x2="1090" y2="215" class="axis"/><text x="73" y="220" text-anchor="end" class="s">0</text>
+<line x1="85" y1="155" x2="1090" y2="155" class="grid"/><text x="73" y="160" text-anchor="end" class="s">+1pp</text>
+<line x1="85" y1="95" x2="1090" y2="95" class="grid"/><text x="73" y="100" text-anchor="end" class="s">+2pp</text>
+<line x1="85" y1="65" x2="1090" y2="65" class="grid"/><text x="73" y="70" text-anchor="end" class="s">+2.5pp</text>
+<line x1="85" y1="65" x2="85" y2="515" class="axis"/><line x1="85" y1="515" x2="1090" y2="515" class="axis"/>
+<text x="100" y="545" class="s" text-anchor="middle">2008</text><text x="220" y="545" class="s" text-anchor="middle">2009</text><text x="340" y="545" class="s" text-anchor="middle">2010</text><text x="460" y="545" class="s" text-anchor="middle">2011</text><text x="580" y="545" class="s" text-anchor="middle">2012</text><text x="700" y="545" class="s" text-anchor="middle">2013</text><text x="820" y="545" class="s" text-anchor="middle">2014</text><text x="940" y="545" class="s" text-anchor="middle">2015</text><text x="1060" y="545" class="s" text-anchor="middle">2016</text>
+<line x1="580" y1="65" x2="580" y2="515" class="event"/><text x="590" y="84" class="s">2012事件过渡年</text>
+<!-- actual pre -->
+<polyline points="100,74 220,92 340,131 460,131" class="actual"/><circle cx="100" cy="74" r="4.5" fill="white" stroke="#111" stroke-width="2"/><circle cx="220" cy="92" r="4.5" fill="white" stroke="#111" stroke-width="2"/><circle cx="340" cy="131" r="4.5" fill="white" stroke="#111" stroke-width="2"/><circle cx="460" cy="131" r="4.5" fill="white" stroke="#111" stroke-width="2"/>
+<!-- actual post -->
+<polyline points="700,275 820,398 940,470 1060,296" class="actual"/><circle cx="700" cy="275" r="4.5" fill="white" stroke="#111" stroke-width="2"/><circle cx="820" cy="398" r="4.5" fill="white" stroke="#111" stroke-width="2"/><circle cx="940" cy="470" r="4.5" fill="white" stroke="#111" stroke-width="2"/><circle cx="1060" cy="296" r="4.5" fill="white" stroke="#111" stroke-width="2"/>
+<!-- pretrend slope -0.35 pp/yr: values 2008 2.385,09 2.035,10 1.685,11 1.335,12 .985,13 .635,14 .285,15 -.065,16 -.415 -->
+<polyline points="100,72 220,93 340,114 460,135 580,156 700,177 820,198 940,219 1060,240" class="trend"/>
+<text x="790" y="174" class="s">2008–2011线性趋势外推</text>
+<text x="735" y="310" class="h">2013残差 −1.58pp</text><text x="845" y="430" class="h">2014 −3.28pp</text><text x="965" y="493" class="h">2015 −4.13pp</text>
+<text x="85" y="590" class="s">注：纵轴为大连实际GDP增速减武汉—青岛等权均值。虚线仅用2008—2011拟合，趋势外推用于敏感性，不是因果反事实的已验证模型。</text>
+<line x1="85" y1="620" x2="125" y2="620" stroke="#111" stroke-width="3"/><text x="135" y="626" class="s">实际差值</text><line x1="260" y1="620" x2="300" y2="620" stroke="#888" stroke-width="2" stroke-dasharray="8 6"/><text x="310" y="626" class="s">事前趋势外推</text>
+</svg>
