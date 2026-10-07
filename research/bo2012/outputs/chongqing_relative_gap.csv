@@ -1,0 +1,10 @@
+year,cq_gdp_growth_pct,chengdu_wuhan_mean_pct,cq_minus_control_mean_pp,period
+2008,14.3,13.6,0.7,pre
+2009,14.9,14.2,0.7,pre
+2010,17.1,14.85,2.25,pre
+2011,16.4,13.85,2.55,pre
+2012,13.6,13.0,0.6,transition
+2013,12.3,10.1,2.2,post
+2014,10.9,9.3,1.6,post
+2015,11.0,8.35,2.65,post
+2016,10.7,7.75,2.95,post
