@@ -1,0 +1,10 @@
+metric,dalian,liaoning,interpretation
+real_estate_share_of_fai_2013,0.2640,0.2602,两地房地产投资占固定资产投资比例几乎相同
+real_estate_share_of_fai_2014,0.2110,0.2170,两地房地产投资占比同步下降
+real_estate_share_of_fai_2015,0.1969,0.2017,两地仍高度接近
+fai_decline_2013_to_2015_100m_cny,-1918.8,-7151.0,名义投资总额变化
+real_estate_decline_2013_to_2015_100m_cny,-812.9,-2892.1,房地产开发投资变化
+real_estate_share_of_fai_decline_2013_to_2015,0.4237,0.4044,会计分解；不是因果贡献
+fai_decline_2014_to_2015_100m_cny,-2214.3,-6786.4,名义投资总额变化
+real_estate_decline_2014_to_2015_100m_cny,-531.8,-1742.6,房地产开发投资变化
+real_estate_share_of_fai_decline_2014_to_2015,0.2402,0.2568,2014到2015房地产只解释约四分之一的名义投资下降
