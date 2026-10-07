@@ -1,0 +1,11 @@
+metric,pre_or_transition,dalian_post_path,chongqing_post_path,comparison
+GDP_relative_gap,"Dalian pre +1.80pp vs Wuhan-Qingdao; Chongqing pre +1.55pp vs Chengdu-Wuhan","2013-2015 mean -2.77pp; change -4.57pp","2013-2016 mean +2.35pp; change +0.80pp",opposite_relative_growth_paths
+loan_growth_2012,transition,15.1,18.2,pct
+loan_growth_2014,post,7.404,14.6,pct
+loan_growth_2015,post,6.471,11.2,pct
+loan_growth_2016,post,2.319,11.189,pct
+FAI_growth_2013,post,15.2,19.5,pct
+FAI_growth_2014,post,4.6,18.0,pct
+FAI_growth_2015,post,-32.7,17.1,pct
+real_estate_growth_2014,post,-16.4,20.5,pct
+real_estate_growth_2015,post,-37.2,3.3,pct
