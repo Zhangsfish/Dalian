@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1250" height="760" viewBox="0 0 1250 760">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#222}.t{font-size:25px;font-weight:650}.h{font-size:17px;font-weight:600}.s{font-size:14px}.cell{stroke:white;stroke-width:2}.full{fill:#4b4b4b}.part{fill:#aaa}.weak{fill:#ddd}.none{fill:#f5f5f5;stroke:#ddd;stroke-width:1}</style>
+<text x="55" y="42" class="t">图4｜主要变量与地区的数据覆盖及可用等级</text>
+<text x="460" y="85" class="h" text-anchor="middle">大连</text><text x="600" y="85" class="h" text-anchor="middle">辽宁</text><text x="740" y="85" class="h" text-anchor="middle">武汉</text><text x="880" y="85" class="h" text-anchor="middle">青岛</text><text x="1020" y="85" class="h" text-anchor="middle">重庆/平行案例</text>
+<text x="75" y="128" class="h">实际GDP增速</text><text x="75" y="198" class="h">固定资产投资</text><text x="75" y="268" class="h">房地产投资</text><text x="75" y="338" class="h">银行贷款/信用</text><text x="75" y="408" class="h">上级财政资源</text><text x="75" y="478" class="h">国家项目/平台</text><text x="75" y="548" class="h">领导/治理时间线</text><text x="75" y="618" class="h">对日结构暴露</text>
+<!-- row 1 -->
+<rect x="400" y="105" width="120" height="42" class="cell full"/><rect x="540" y="105" width="120" height="42" class="cell full"/><rect x="680" y="105" width="120" height="42" class="cell full"/><rect x="820" y="105" width="120" height="42" class="cell full"/><rect x="960" y="105" width="120" height="42" class="cell part"/>
+<!-- row2 -->
+<rect x="400" y="175" width="120" height="42" class="cell full"/><rect x="540" y="175" width="120" height="42" class="cell full"/><rect x="680" y="175" width="120" height="42" class="cell weak"/><rect x="820" y="175" width="120" height="42" class="cell part"/><rect x="960" y="175" width="120" height="42" class="cell part"/>
+<!-- row3 -->
+<rect x="400" y="245" width="120" height="42" class="cell full"/><rect x="540" y="245" width="120" height="42" class="cell full"/><rect x="680" y="245" width="120" height="42" class="cell full"/><rect x="820" y="245" width="120" height="42" class="cell part"/><rect x="960" y="245" width="120" height="42" class="none"/>
+<!-- row4 -->
+<rect x="400" y="315" width="120" height="42" class="cell full"/><rect x="540" y="315" width="120" height="42" class="cell full"/><rect x="680" y="315" width="120" height="42" class="cell part"/><rect x="820" y="315" width="120" height="42" class="cell part"/><rect x="960" y="315" width="120" height="42" class="cell full"/>
+<!-- row5 -->
+<rect x="400" y="385" width="120" height="42" class="cell part"/><rect x="540" y="385" width="120" height="42" class="cell part"/><rect x="680" y="385" width="120" height="42" class="none"/><rect x="820" y="385" width="120" height="42" class="cell weak"/><rect x="960" y="385" width="120" height="42" class="none"/>
+<!-- row6 -->
+<rect x="400" y="455" width="120" height="42" class="cell full"/><rect x="540" y="455" width="120" height="42" class="cell weak"/><rect x="680" y="455" width="120" height="42" class="none"/><rect x="820" y="455" width="120" height="42" class="none"/><rect x="960" y="455" width="120" height="42" class="cell weak"/>
+<!-- row7 -->
+<rect x="400" y="525" width="120" height="42" class="cell full"/><rect x="540" y="525" width="120" height="42" class="cell weak"/><rect x="680" y="525" width="120" height="42" class="none"/><rect x="820" y="525" width="120" height="42" class="none"/><rect x="960" y="525" width="120" height="42" class="cell part"/>
+<!-- row8 -->
+<rect x="400" y="595" width="120" height="42" class="cell full"/><rect x="540" y="595" width="120" height="42" class="cell part"/><rect x="680" y="595" width="120" height="42" class="none"/><rect x="820" y="595" width="120" height="42" class="none"/><rect x="960" y="595" width="120" height="42" class="none"/>
+<rect x="75" y="680" width="28" height="20" class="full"/><text x="112" y="696" class="s">主分析可用</text><rect x="240" y="680" width="28" height="20" class="part"/><text x="277" y="696" class="s">部分年份/机制可用</text><rect x="450" y="680" width="28" height="20" class="weak"/><text x="487" y="696" class="s">仅边界/背景证据</text><rect x="680" y="680" width="28" height="20" class="none"/><text x="717" y="696" class="s">未形成可比面板</text>
+<text x="75" y="730" class="s">注：覆盖等级反映“是否适合当前论文用途”，不代表数据真实性高低。统一修订vintage不足仍是强因果升级的主要瓶颈。</text>
+</svg>
