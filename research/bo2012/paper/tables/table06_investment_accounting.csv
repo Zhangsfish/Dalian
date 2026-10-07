@@ -1,0 +1,11 @@
+window,metric,dalian,liaoning,unit,interpretation
+2012,government_fund_revenue_growth,-56.3,-28.7,pct,land_finance_pressure
+2013,real_estate_share_of_FAI,26.40,26.02,pct,investment_structure
+2014,real_estate_share_of_FAI,21.10,21.70,pct,investment_structure
+2015,real_estate_share_of_FAI,19.69,20.17,pct,investment_structure
+2013-2015,FAI_change,-1918.8,-7151.0,100m_CNY,total_investment_change
+2013-2015,real_estate_investment_change,-812.9,-2892.1,100m_CNY,real_estate_component
+2013-2015,real_estate_share_of_FAI_decline,42.37,40.44,pct,accounting_composition
+2014-2015,FAI_change,-2214.3,-6786.4,100m_CNY,total_investment_change
+2014-2015,real_estate_investment_change,-531.8,-1742.6,100m_CNY,real_estate_component
+2014-2015,real_estate_share_of_FAI_decline,24.02,25.68,pct,accounting_composition
