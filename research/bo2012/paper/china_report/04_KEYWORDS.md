@@ -6,7 +6,7 @@ Recommended six keywords:
 2. local economic vulnerability
 3. Dalian
 4. Liaoning
-5. credit contraction
+5. bank credit
 6. local political economy
 
 ## Rationale
@@ -15,7 +15,7 @@ Recommended six keywords:
 - **local economic vulnerability**: main generalizable contribution;
 - **Dalian**: primary case and search term;
 - **Liaoning**: regional context and central comparison;
-- **credit contraction**: strongest local amplification mechanism;
+- **bank credit**: strongest local amplification mechanism;
 - **local political economy**: positions the article in the journal's China-studies/political-economy space.
 
 Not recommended as keywords:
