@@ -3,7 +3,7 @@
 更新时间：2026-10-08
 
 ## 当前状态
-**CR-S01 IN PROGRESS**
+**CR-S01 COMPLETE / CR-S02 IN PROGRESS**
 
 已完成：
 - 官方投稿要求完整阅读；
@@ -33,14 +33,17 @@ Working title:
 
 ## CR-S01 进度
 - [x] CR-S01A：Title selection
-- [ ] CR-S01B：Structured abstract v1
-- [ ] CR-S01C：Keywords
-- [ ] CR-S01D：Positioning memo + journal-fit rationale
+- [x] CR-S01B：Structured abstract v1
+- [x] CR-S01C：Keywords
+- [x] CR-S01D：Positioning memo + journal-fit rationale
 
 当前 Working Title：
 **Political Network Shocks and Local Economic Vulnerability: Evidence from Dalian after 2012**
 
-## 下一步
-只做 **CR-S01B：150–200词 structured abstract v1**。
+## CR-S02
+- [ ] target section architecture
+- [ ] old→new content map
+- [ ] English manuscript shell
+- [ ] identify main-text vs supplement material
 
-未完成 CR-S01 前，不进入 CR-S02，不重写全文。
+当前进入 **CR-S02：重构主文架构**。
