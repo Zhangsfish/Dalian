@@ -3,7 +3,7 @@
 更新时间：2026-10-08
 
 ## 当前状态
-**CR-S01 COMPLETE / CR-S02 IN PROGRESS**
+**CR-S03 COMPLETE / CR-S04 IN PROGRESS**
 
 已完成：
 - 官方投稿要求完整阅读；
@@ -41,9 +41,21 @@ Working title:
 **Political Network Shocks and Local Economic Vulnerability: Evidence from Dalian after 2012**
 
 ## CR-S02
-- [ ] target section architecture
-- [ ] old→new content map
-- [ ] English manuscript shell
-- [ ] identify main-text vs supplement material
+- [x] target section architecture
+- [x] old→new content map
+- [x] English manuscript shell
+- [x] identify main-text vs supplement material
 
-当前进入 **CR-S02：重构主文架构**。
+**CR-S02 COMPLETE**
+
+## CR-S03
+- [x] main-text figure plan
+- [x] main-text table plan
+- [x] supplement structure
+- [x] old evidence assigned to main / supplement
+
+**CR-S03 COMPLETE**
+
+## CR-S04
+Current task: English adaptation draft, section by section.
+Next unit: Sections 1–2.
