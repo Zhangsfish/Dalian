@@ -1,0 +1,13 @@
+variable,unit,main_geographies,coverage,primary_source_type,main_use,key_caveat
+real_GDP_growth,percent,"Dalian; Wuhan; Qingdao; Liaoning",2008-2016 core,official annual statistical bulletins,baseline relative anomaly,"as-reported vintages; Qingdao 2012 excluded forecast; 2016 Liaoning recording risk"
+current_GDP_level,100m_CNY,"Dalian and expanded donor pool",2005-2019 screening,official/secondary historical aggregates,synthetic-control feasibility only,"asynchronous revisions; not causal post-gap"
+fixed_asset_investment_growth,percent,"Dalian; Liaoning",2007-2016 partial,official bulletins,regional common-shock mechanism,"scope changes around 2011; 2016 recording break"
+real_estate_investment,100m_CNY_and_percent,"Dalian; Liaoning; Wuhan; Qingdao",2013-2015 core,official bulletins/government reports,real-estate mechanism,"not a causal mediator share"
+loan_growth,percent,"Dalian; Liaoning; Wuhan; Qingdao",2010-2017 partial,official bulletins/PBOC reports,credit mechanism,"reported growth and increment-derived rates mixed but flagged"
+NPL_ratio,percent,Dalian,2013-2016,official financial reports,credit-risk cross-check,"cannot separate supply from demand"
+private_investment_growth,percent,"Dalian; Wuhan; Qingdao",2014 key cross-section,official reports,expectation/credit mechanism,"limited time series"
+upper_level_fiscal_support,100m_CNY,Dalian,2014-2015 clean subset,Ministry of Finance budget execution reports,visible-resource mechanism,"cross-city definitions not yet fully harmonized"
+national_platforms_and_projects,event_ledger,Dalian,2009-2017,State Council/NDRC/company primary sources,strong-story falsification,"event counts are not investment flows"
+leadership_timeline,event_ledger,Dalian,2011-2017,official biographies/republications,governance mechanism,"officeholding is not direct network intensity"
+Japan_exposure,FDI_and_project_counts,Dalian,2012-2015,JETRO reports,local structural competing mechanism,"2015 methodology break"
+Chongqing_parallel_case,growth_credit_FAI,"Chongqing; Chengdu; Wuhan",2008-2016,official/republication panel,parallel treated-case test,"not an untreated control; different administrative status"
