@@ -22,7 +22,7 @@ Persson, Petra, and Ekaterina Zhuravskaya. 2016. “The Limits of Career Concern
 
 新华社/人民日报体系，2012年3月15日，重庆市委主要负责同志职务调整。https://paper.people.com.cn/hqrw/html/2012-03/26/content_1030196.htm?div=-1
 
-人民网资料，薄熙来履历（1992年任大连代市长、1993年起任市长、1999年任大连市委书记；人民网资料由媒体转载留存）。
+人民网资料，薄熙来履历（1992年任大连代市长、1993年起任市长、1999年任大连市委书记；人民网资料转载留存）。https://news.ifeng.com/mainland/200710/1008_17_250684.shtml
 
 《人民日报》，2001年5月14日，第5版，〈如何经营城市这份国有资产——薄熙来访谈录〉。https://cn.govopendata.com/renminribao/2001/05/14/5/
 
