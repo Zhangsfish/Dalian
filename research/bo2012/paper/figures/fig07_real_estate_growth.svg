@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="660" viewBox="0 0 1180 660">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#222}.t{font-size:25px;font-weight:650}.s{font-size:15px}.h{font-size:17px;font-weight:600}.axis{stroke:#555;stroke-width:1}.grid{stroke:#ddd;stroke-width:1}.d{fill:none;stroke:#111;stroke-width:3}.ln{fill:none;stroke:#555;stroke-width:3;stroke-dasharray:9 5}.wh{fill:none;stroke:#888;stroke-width:2.5;stroke-dasharray:3 5}.qd{fill:none;stroke:#aaa;stroke-width:2.5;stroke-dasharray:12 5 3 5}</style>
+<text x="80" y="38" class="t">图7｜2013—2015年房地产开发投资增速</text>
+<line x1="100" y1="525" x2="1080" y2="525" class="grid"/><text x="85" y="530" text-anchor="end" class="s">−40%</text>
+<line x1="100" y1="455" x2="1080" y2="455" class="grid"/><text x="85" y="460" text-anchor="end" class="s">−30%</text>
+<line x1="100" y1="385" x2="1080" y2="385" class="grid"/><text x="85" y="390" text-anchor="end" class="s">−20%</text>
+<line x1="100" y1="315" x2="1080" y2="315" class="grid"/><text x="85" y="320" text-anchor="end" class="s">−10%</text>
+<line x1="100" y1="245" x2="1080" y2="245" class="axis"/><text x="85" y="250" text-anchor="end" class="s">0</text>
+<line x1="100" y1="175" x2="1080" y2="175" class="grid"/><text x="85" y="180" text-anchor="end" class="s">+10%</text>
+<line x1="100" y1="105" x2="1080" y2="105" class="grid"/><text x="85" y="110" text-anchor="end" class="s">+20%</text>
+<line x1="100" y1="70" x2="1080" y2="70" class="grid"/><text x="85" y="75" text-anchor="end" class="s">+25%</text>
+<line x1="100" y1="70" x2="100" y2="525" class="axis"/><line x1="100" y1="525" x2="1080" y2="525" class="axis"/>
+<text x="250" y="555" text-anchor="middle" class="h">2013</text><text x="590" y="555" text-anchor="middle" class="h">2014</text><text x="930" y="555" text-anchor="middle" class="h">2015</text>
+<!-- mapping y=245 - 7*value -->
+<polyline points="250,87.5 590,359.8 930,505.4" class="d"/><circle cx="250" cy="87.5" r="4.5" fill="white" stroke="#111" stroke-width="2"/><circle cx="590" cy="359.8" r="4.5" fill="white" stroke="#111" stroke-width="2"/><circle cx="930" cy="505.4" r="4.5" fill="white" stroke="#111" stroke-width="2"/>
+<polyline points="250,117.6 590,369.6 930,475.3" class="ln"/><circle cx="250" cy="117.6" r="4.5" fill="white" stroke="#555" stroke-width="2"/><circle cx="590" cy="369.6" r="4.5" fill="white" stroke="#555" stroke-width="2"/><circle cx="930" cy="475.3" r="4.5" fill="white" stroke="#555" stroke-width="2"/>
+<polyline points="250,98 590,80.5 930,177.1" class="wh"/><circle cx="250" cy="98" r="4" fill="white" stroke="#888"/><circle cx="590" cy="80.5" r="4" fill="white" stroke="#888"/><circle cx="930" cy="177.1" r="4" fill="white" stroke="#888"/>
+<polyline points="250,156.1 590,198.8" class="qd"/><circle cx="250" cy="156.1" r="4" fill="white" stroke="#aaa"/><circle cx="590" cy="198.8" r="4" fill="white" stroke="#aaa"/>
+<text x="605" y="385" class="s">大连 −16.4%</text><text x="605" y="405" class="s">辽宁 −17.8%</text>
+<text x="945" y="505" class="s">大连 −37.2%</text><text x="945" y="477" class="s">辽宁 −32.9%</text>
+<line x1="100" y1="600" x2="140" y2="600" stroke="#111" stroke-width="3"/><text x="150" y="606" class="s">大连</text>
+<line x1="260" y1="600" x2="300" y2="600" stroke="#555" stroke-width="3" stroke-dasharray="9 5"/><text x="310" y="606" class="s">辽宁</text>
+<line x1="420" y1="600" x2="460" y2="600" stroke="#888" stroke-width="2.5" stroke-dasharray="3 5"/><text x="470" y="606" class="s">武汉</text>
+<line x1="580" y1="600" x2="620" y2="600" stroke="#aaa" stroke-width="2.5" stroke-dasharray="12 5 3 5"/><text x="630" y="606" class="s">青岛</text>
+<text x="100" y="635" class="s">注：青岛2015同口径房地产开发投资未纳入当前主面板，因此图中不连接2015。</text>
+</svg>
