@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="640" viewBox="0 0 1160 640">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#222}.t{font-size:25px;font-weight:650}.s{font-size:15px}.h{font-size:17px;font-weight:600}.axis{stroke:#555;stroke-width:1}.grid{stroke:#ddd;stroke-width:1}.line{fill:none;stroke:#111;stroke-width:3}.event{stroke:#888;stroke-width:1.5;stroke-dasharray:6 5}</style>
+<text x="75" y="38" class="t">图13｜重庆相对成都—武汉均值的实际GDP增速差</text>
+<line x1="90" y1="500" x2="1080" y2="500" class="axis"/><line x1="90" y1="80" x2="90" y2="500" class="axis"/>
+<line x1="90" y1="420" x2="1080" y2="420" class="grid"/><text x="75" y="425" text-anchor="end" class="s">0</text>
+<line x1="90" y1="320" x2="1080" y2="320" class="grid"/><text x="75" y="325" text-anchor="end" class="s">+1pp</text>
+<line x1="90" y1="220" x2="1080" y2="220" class="grid"/><text x="75" y="225" text-anchor="end" class="s">+2pp</text>
+<line x1="90" y1="120" x2="1080" y2="120" class="grid"/><text x="75" y="125" text-anchor="end" class="s">+3pp</text>
+<text x="120" y="530" text-anchor="middle" class="s">2008</text><text x="235" y="530" text-anchor="middle" class="s">2009</text><text x="350" y="530" text-anchor="middle" class="s">2010</text><text x="465" y="530" text-anchor="middle" class="s">2011</text><text x="580" y="530" text-anchor="middle" class="s">2012</text><text x="695" y="530" text-anchor="middle" class="s">2013</text><text x="810" y="530" text-anchor="middle" class="s">2014</text><text x="925" y="530" text-anchor="middle" class="s">2015</text><text x="1040" y="530" text-anchor="middle" class="s">2016</text>
+<line x1="580" y1="80" x2="580" y2="500" class="event"/><text x="590" y="100" class="s">2012</text>
+<!-- y=420-gap*100 -->
+<polyline points="120,350 235,350 350,195 465,165 580,360 695,200 810,260 925,155 1040,125" class="line"/>
+<circle cx="120" cy="350" r="4" fill="white" stroke="#111"/><circle cx="235" cy="350" r="4" fill="white" stroke="#111"/><circle cx="350" cy="195" r="4" fill="white" stroke="#111"/><circle cx="465" cy="165" r="4" fill="white" stroke="#111"/><circle cx="580" cy="360" r="4" fill="white" stroke="#111"/><circle cx="695" cy="200" r="4" fill="white" stroke="#111"/><circle cx="810" cy="260" r="4" fill="white" stroke="#111"/><circle cx="925" cy="155" r="4" fill="white" stroke="#111"/><circle cx="1040" cy="125" r="4" fill="white" stroke="#111"/>
+<text x="230" y="95" class="h">2008–2011均值：+1.55pp</text><text x="760" y="95" class="h">2013–2016均值：+2.35pp</text>
+<text x="90" y="590" class="s">重庆在2012后没有出现相对成都—武汉的增长优势收窄，事后均值反而比事前高约0.80个百分点。</text>
+</svg>
