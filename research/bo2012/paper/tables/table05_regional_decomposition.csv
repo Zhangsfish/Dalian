@@ -1,0 +1,4 @@
+component,pre_window,post_window,pre_mean_gap_pp,post_mean_gap_pp,change_pp,share_of_outside_magnitude,interpretation
+Dalian_minus_outside_controls,2008-2011,2013-2015,1.8000,-2.7667,-4.5667,1.0000,total_descriptive_outside_anomaly
+Dalian_minus_Liaoning,2008-2011,2013-2015,1.9500,0.5000,-1.4500,0.3175,local_relative_deterioration_not_political_effect
+Liaoning_minus_outside_controls_algebraic,2008-2011,2013-2015,,, -3.1167,0.6825,regional_relative_deterioration_not_causal_contribution
