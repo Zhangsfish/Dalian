@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="680" viewBox="0 0 1180 680">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#222}.t{font-size:25px;font-weight:650}.s{font-size:15px}.h{font-size:17px;font-weight:600}.axis{stroke:#555;stroke-width:1}.grid{stroke:#ddd;stroke-width:1}.out{fill:none;stroke:#111;stroke-width:3}.ln{fill:none;stroke:#777;stroke-width:3;stroke-dasharray:9 5}.event{stroke:#888;stroke-width:1.5;stroke-dasharray:6 5}.warn{font-size:14px;fill:#555}</style>
+<text x="75" y="38" class="t">图6｜大连相对省外参照与相对辽宁的年度增长差</text>
+<line x1="85" y1="505" x2="1090" y2="505" class="grid"/><text x="72" y="510" text-anchor="end" class="s">−5pp</text>
+<line x1="85" y1="445" x2="1090" y2="445" class="grid"/><text x="72" y="450" text-anchor="end" class="s">−3pp</text>
+<line x1="85" y1="385" x2="1090" y2="385" class="grid"/><text x="72" y="390" text-anchor="end" class="s">−1pp</text>
+<line x1="85" y1="355" x2="1090" y2="355" class="axis"/><text x="72" y="360" text-anchor="end" class="s">0</text>
+<line x1="85" y1="325" x2="1090" y2="325" class="grid"/><text x="72" y="330" text-anchor="end" class="s">+1pp</text>
+<line x1="85" y1="265" x2="1090" y2="265" class="grid"/><text x="72" y="270" text-anchor="end" class="s">+3pp</text>
+<line x1="85" y1="205" x2="1090" y2="205" class="grid"/><text x="72" y="210" text-anchor="end" class="s">+5pp</text>
+<line x1="85" y1="85" x2="1090" y2="85" class="grid"/><text x="72" y="90" text-anchor="end" class="s">+9pp</text>
+<line x1="85" y1="85" x2="85" y2="505" class="axis"/><line x1="85" y1="505" x2="1090" y2="505" class="axis"/>
+<text x="100" y="535" class="s" text-anchor="middle">2008</text><text x="220" y="535" class="s" text-anchor="middle">2009</text><text x="340" y="535" class="s" text-anchor="middle">2010</text><text x="460" y="535" class="s" text-anchor="middle">2011</text><text x="580" y="535" class="s" text-anchor="middle">2012</text><text x="700" y="535" class="s" text-anchor="middle">2013</text><text x="820" y="535" class="s" text-anchor="middle">2014</text><text x="940" y="535" class="s" text-anchor="middle">2015</text><text x="1060" y="535" class="s" text-anchor="middle">2016</text>
+<line x1="580" y1="85" x2="580" y2="505" class="event"/><text x="590" y="105" class="s">2012事件过渡年</text>
+<!-- outside gap: 2.35 2.05 1.4 1.4 / -1 -3.05 -4.25 -1.35; mapping y=355-30*value -->
+<polyline points="100,284.5 220,293.5 340,313 460,313" class="out"/><polyline points="700,385 820,446.5 940,482.5 1060,395.5" class="out"/>
+<!-- LN gap: 3.4 1.9 1.1 1.4 / .3 0 1.2 9 -->
+<polyline points="100,253 220,298 340,322 460,313" class="ln"/><polyline points="700,346 820,355 940,319 1060,85" class="ln"/>
+<circle cx="820" cy="355" r="4.5" fill="white" stroke="#777" stroke-width="2"/><text x="835" y="345" class="s">2014：大连=辽宁</text>
+<circle cx="940" cy="319" r="4.5" fill="white" stroke="#777" stroke-width="2"/><text x="955" y="309" class="s">2015：大连仍快1.2pp</text>
+<circle cx="1060" cy="85" r="5" fill="white" stroke="#777" stroke-width="2"/><text x="870" y="72" class="warn">2016相对辽宁+9pp：统计/记录异常风险，非主窗口</text>
+<line x1="85" y1="592" x2="130" y2="592" stroke="#111" stroke-width="3"/><text x="140" y="598" class="s">大连 − 武汉/青岛均值</text>
+<line x1="390" y1="592" x2="435" y2="592" stroke="#777" stroke-width="3" stroke-dasharray="9 5"/><text x="445" y="598" class="s">大连 − 辽宁</text>
+<text x="85" y="635" class="s">主窗口：2008–2011 vs 2013–2015。省外差值变化−4.57pp，而大连相对辽宁仅−1.45pp；差额−3.12pp对应辽宁相对省外参照的代数恶化。</text>
+</svg>
