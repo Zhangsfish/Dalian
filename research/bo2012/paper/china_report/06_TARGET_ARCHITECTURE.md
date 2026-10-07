@@ -62,7 +62,7 @@
 这里第一次把“辽宁共同下行”说成人话：
 > not Liaoning causing Dalian, but Dalian sharing a regional investment-industrial exposure.
 
-### 5. From Industrial Cash Flow to Credit Contraction
+### 5. From Industrial Cash Flow to Credit Weakening
 合并当前：
 - R05.2 sector decomposition;
 - R05.3 credit/private investment.
@@ -147,7 +147,7 @@ Discussion 要回答：
 | R04 baseline | 4 | retain |
 | R04 regional decomposition | 4 | retain, simplify |
 | R05.1 real estate/FAI | 4 | integrate |
-| R05.2 sector/cash flow | 5 | promote |
+| R05.2 sector/operating performance | 5 | promote |
 | R05.3 credit/private | 5 | integrate |
 | R05.4 fiscal/projects | 6 | retain |
 | R05.5 Japan | 6 | shorten |
