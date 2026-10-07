@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="660" viewBox="0 0 1180 660">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#222}.t{font-size:25px;font-weight:650}.s{font-size:15px}.h{font-size:17px;font-weight:600}.axis{stroke:#555;stroke-width:1}.grid{stroke:#ddd;stroke-width:1}.df{fill:none;stroke:#111;stroke-width:3}.lf{fill:none;stroke:#555;stroke-width:3;stroke-dasharray:9 5}.dr{fill:none;stroke:#888;stroke-width:2.7}.lr{fill:none;stroke:#aaa;stroke-width:2.7;stroke-dasharray:7 5}</style>
+<text x="80" y="38" class="t">图8｜大连与辽宁投资路径：2013=100</text>
+<line x1="100" y1="520" x2="1080" y2="520" class="grid"/><text x="85" y="525" text-anchor="end" class="s">50</text>
+<line x1="100" y1="445" x2="1080" y2="445" class="grid"/><text x="85" y="450" text-anchor="end" class="s">60</text>
+<line x1="100" y1="370" x2="1080" y2="370" class="grid"/><text x="85" y="375" text-anchor="end" class="s">70</text>
+<line x1="100" y1="295" x2="1080" y2="295" class="grid"/><text x="85" y="300" text-anchor="end" class="s">80</text>
+<line x1="100" y1="220" x2="1080" y2="220" class="grid"/><text x="85" y="225" text-anchor="end" class="s">90</text>
+<line x1="100" y1="145" x2="1080" y2="145" class="axis"/><text x="85" y="150" text-anchor="end" class="s">100</text>
+<line x1="100" y1="107.5" x2="1080" y2="107.5" class="grid"/><text x="85" y="112.5" text-anchor="end" class="s">105</text>
+<line x1="100" y1="85" x2="100" y2="520" class="axis"/><line x1="100" y1="520" x2="1080" y2="520" class="axis"/>
+<text x="250" y="555" text-anchor="middle" class="h">2013</text><text x="590" y="555" text-anchor="middle" class="h">2014</text><text x="930" y="555" text-anchor="middle" class="h">2015</text>
+<!-- y=145 + (100-index)*7.5 -->
+<polyline points="250,145 590,110.8 930,367.1" class="df"/><polyline points="250,145 590,156.0 930,361.3" class="lf"/>
+<polyline points="250,145 590,268.3 930,501.5" class="dr"/><polyline points="250,145 590,278.6 930,481.2" class="lr"/>
+<circle cx="250" cy="145" r="4" fill="white" stroke="#111"/><circle cx="590" cy="110.8" r="4" fill="white" stroke="#111"/><circle cx="930" cy="367.1" r="4" fill="white" stroke="#111"/>
+<circle cx="250" cy="145" r="4" fill="white" stroke="#555"/><circle cx="590" cy="156.0" r="4" fill="white" stroke="#555"/><circle cx="930" cy="361.3" r="4" fill="white" stroke="#555"/>
+<circle cx="250" cy="145" r="4" fill="white" stroke="#888"/><circle cx="590" cy="268.3" r="4" fill="white" stroke="#888"/><circle cx="930" cy="501.5" r="4" fill="white" stroke="#888"/>
+<circle cx="250" cy="145" r="4" fill="white" stroke="#aaa"/><circle cx="590" cy="278.6" r="4" fill="white" stroke="#aaa"/><circle cx="930" cy="481.2" r="4" fill="white" stroke="#aaa"/>
+<text x="946" y="356" class="s">总投资：大连70.4 / 辽宁71.2</text><text x="946" y="493" class="s">地产：大连52.5 / 辽宁55.2</text>
+<line x1="100" y1="600" x2="140" y2="600" stroke="#111" stroke-width="3"/><text x="150" y="606" class="s">大连固定资产投资</text>
+<line x1="330" y1="600" x2="370" y2="600" stroke="#555" stroke-width="3" stroke-dasharray="9 5"/><text x="380" y="606" class="s">辽宁固定资产投资</text>
+<line x1="570" y1="600" x2="610" y2="600" stroke="#888" stroke-width="2.7"/><text x="620" y="606" class="s">大连房地产投资</text>
+<line x1="800" y1="600" x2="840" y2="600" stroke="#aaa" stroke-width="2.7" stroke-dasharray="7 5"/><text x="850" y="606" class="s">辽宁房地产投资</text>
+<text x="100" y="635" class="s">2013年各自归一化为100。固定资产投资与房地产开发投资分别在各地区内部指数化。</text>
+</svg>
