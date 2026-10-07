@@ -1,0 +1,13 @@
+year,indicator,value,unit,source_id,scope,interpretation
+2013,Dalian_service_outsourcing_execution,16.5,billion_USD,DL2013,city,同比增长7.9%；对日外包是大连重要结构暴露但该指标非日本专属
+2014,Dalian_service_outsourcing_execution,18.14,billion_USD,DL2014,city,同比增长10.9%
+2015,Dalian_service_outsourcing_execution,15.23,billion_USD,DL2015RE,city,同比下降16.04%
+2014,Dalian_Japan_trade_total,11.8,billion_USD,DLJAPAN2014,city_trade_with_Japan,2014对日贸易规模
+2014,Dalian_exports_to_Japan,7.28,billion_USD,DLJAPAN2014,city_exports_to_Japan,占大连出口24.7%
+2014,Dalian_imports_from_Japan,4.52,billion_USD,DLJAPAN2014,city_imports_from_Japan,占大连进口12.9%
+2014,Dalian_cumulative_Japanese_enterprises,4571,enterprises,DLJAPAN2014,cumulative,展示长期日资路径依赖；不是年度流量
+2014,Dalian_cumulative_utilized_Japanese_investment,17.91,billion_USD,DLJAPAN2014,cumulative,展示长期日资路径依赖；不是年度流量
+2015,Dalian_port_exports_to_Japan_growth,-8.3,pct,DLPORTJAPAN2015,Dalian_port_scope,口岸统计口径不是严格市域
+2015,Dalian_port_imports_from_Japan_growth,-11.4,pct,DLPORTJAPAN2015,Dalian_port_scope,口岸统计口径不是严格市域
+2015,Dalian_self_operated_trade_growth,-14.7,pct,DLTRADE2015,city_self_operated_trade,外需整体疲弱
+2015,Liaoning_total_trade_growth,-15.7,pct,LN2015,province,用于判断外贸下行具有强区域共同成分
