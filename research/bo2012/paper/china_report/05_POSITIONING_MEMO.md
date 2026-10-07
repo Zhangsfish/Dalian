@@ -12,7 +12,7 @@ The paper asks:
 
 The macroeconomic effect of a political-network shock is **state-dependent**.
 
-A political shock is most consequential when it arrives in a local economy whose investment regime, industrial cash flow and credit system are already becoming fragile. Political connections may matter at the margin through project coordination, refinancing, risk assessment and credit access, but they do not substitute for the underlying profitability of the local growth model.
+A political shock is most consequential when it arrives in a local economy whose investment regime, industrial revenues and profits and credit system are already becoming fragile. Political connections may matter at the margin through project coordination, refinancing, risk assessment and credit access, but they do not substitute for the underlying profitability of the local growth model.
 
 ## 3. Empirical narrative
 
@@ -23,13 +23,13 @@ Dalian's growth gap relative to Wuhan and Qingdao deteriorates sharply after 201
 The aggregate GDP slowdown masks a much sharper deterioration in capital-intensive activity. Dalian's secondary-industry growth nearly stalls by 2015 while services continue to expand. Industrial revenues, profits and construction activity fall sharply.
 
 ### Layer 3 — Local financial amplification
-As corporate cash flow and project returns weaken, non-performing loans rise and bank credit growth falls increasingly below Liaoning's. Private investment also weakens. This is the most plausible location for an additional Dalian-specific amplification mechanism.
+As firm profitability and operating performance and project returns weaken, non-performing loans rise and bank credit growth falls increasingly below Liaoning's. Private investment also weakens. This is the most plausible location for an additional Dalian-specific amplification mechanism.
 
 ### Layer 4 — What did not disappear
 Fiscal transfers, national policy platforms and major projects continue after 2012. The evidence therefore does not fit a simple story in which Dalian suddenly loses all access to higher-level resources.
 
 ### Layer 5 — Chongqing as a parallel exposed case
-Chongqing experiences the same major political event but does not reproduce Dalian's investment and credit collapse. This comparison is central to the argument that political shocks interact with local structural conditions rather than mechanically determining macroeconomic outcomes.
+Chongqing experiences the same major political event but does not reproduce Dalian's investment and sharp credit slowdown. This comparison is central to the argument that political shocks interact with local structural conditions rather than mechanically determining macroeconomic outcomes.
 
 ## 4. Contribution
 
@@ -39,7 +39,7 @@ First, it shifts attention from whether political connections “matter” in th
 
 Second, it separates visible public resources from marginal coordination and credit channels. A locality may continue to receive fiscal transfers and national projects while private and bank-financed activity deteriorates.
 
-Third, it links political networks to the health of the local growth regime. Political connections appear more economically consequential when investment returns, corporate cash flow and asset quality are already under pressure.
+Third, it links political networks to the health of the local growth regime. Political connections appear more economically consequential when investment returns, firm profitability and operating performance and asset quality are already under pressure.
 
 ## 5. Why China Report
 
