@@ -1,0 +1,8 @@
+region,year,private_investment_growth_pct,private_investment_100m_cny,share_of_fai_pct,source_id,notes
+大连,2014,2.4,,,DL2014GOV,政府工作报告
+武汉,2014,16.1,4064.56,58.4,WH2014PRIVATE,官方统计分析
+武汉,2015,6.8,4340.99,56.2,WH2015PRIVATE,官方统计分析
+青岛,2014,24.0,,,QD2014PRIVATE,政府工作报告
+辽宁,2013,18.0,16975.9,68.0,LN2013,省计划报告/统计资料
+辽宁,2015,,12946.9,73.4,LN2015,统计公报未直接给同比
+东北,2015,-9.5,,,NBS2015PRIVATE,国家统计局区域统计
