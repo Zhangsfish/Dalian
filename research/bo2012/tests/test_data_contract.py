@@ -70,4 +70,16 @@ class DataContract(unittest.TestCase):
         q=p[(p.region=='青岛')&(p.year==2012)].iloc[0]
         self.assertTrue(pd.isna(q.gdp_real_growth_pct))
         self.assertIn('forecast_excluded',q.source_quality)
+
+    def test_credit_relative_deterioration_s03b(self):
+        d=pd.read_csv(R/'data/credit_panel_s03b.csv')
+        p=d.pivot(index='year',columns='region',values='loan_growth_pct')
+        self.assertAlmostEqual(p.loc[2013,'大连']-(p.loc[2013,'武汉']+p.loc[2013,'青岛'])/2,0.018,places=2)
+        self.assertLess(p.loc[2014,'大连']-p.loc[2014,'辽宁'],-3.0)
+        self.assertLess(p.loc[2015,'大连']-p.loc[2015,'辽宁'],-3.0)
+    def test_contested_credit_reports_not_confirmed(self):
+        e=pd.read_csv(R/'data/contested_financing_events_s03b.csv')
+        x=e[e.event_type=='regulatory_rumor'].iloc[0]
+        self.assertEqual(x.evidence_status,'contested')
+
 if __name__=='__main__':unittest.main()
