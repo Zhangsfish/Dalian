@@ -1,0 +1,5 @@
+date,region,event_type,claim,source_id,evidence_status,interpretation
+2012-03-19,大连,official_monthly_credit,2月末本外币贷款余额8031.4亿元同比增长14.7%且当月增加51.3亿元,DL2012FEB,confirmed,事件发生前后总银行信贷仍在两位数增长不存在即时全市信贷断崖
+2012-03-20,大连,regulatory_rumor,媒体称银监会要求报送涉及大连企业的信托业务清单,DLTRUST20120320,contested,银监会非银部负责人公开称没有这事儿；另一内部人士称为部分地区正常调研检查
+2012-03-23,大连,market_credit_tightening_report,第一财经报道多家信托收到报送要求且银行总行提高对大连分行业务关注并谨慎放贷,DLTRUST20120323,contested,监管业务部门既未确认也未否认；同期地产成交萎缩使供给与需求渠道混杂
+2012-03-23,大连,real_estate_financing_stress,第一财经报道大连若干房地产项目寻求接盘及高成本信托融资,DLTRUST20120323,case_evidence,可证明局部房地产融资压力但不能代表全市银行信贷供给
