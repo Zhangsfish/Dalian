@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="640" viewBox="0 0 1080 640">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#222}.t{font-size:25px;font-weight:650}.s{font-size:15px}.h{font-size:17px;font-weight:600}.axis{stroke:#555;stroke-width:1}.grid{stroke:#ddd;stroke-width:1}.legacy{fill:#ddd;stroke:#888;stroke-width:1}.clean{fill:#555;stroke:#333;stroke-width:1}</style>
+<text x="75" y="38" class="t">图11｜大连预算内上级资源：可比年份与早期口径</text>
+<line x1="100" y1="510" x2="1010" y2="510" class="axis"/><line x1="100" y1="80" x2="100" y2="510" class="axis"/>
+<line x1="100" y1="410" x2="1010" y2="410" class="grid"/><text x="85" y="415" text-anchor="end" class="s">50</text>
+<line x1="100" y1="310" x2="1010" y2="310" class="grid"/><text x="85" y="315" text-anchor="end" class="s">100</text>
+<line x1="100" y1="210" x2="1010" y2="210" class="grid"/><text x="85" y="215" text-anchor="end" class="s">150</text>
+<line x1="100" y1="110" x2="1010" y2="110" class="grid"/><text x="85" y="115" text-anchor="end" class="s">200亿元</text>
+<!-- y=510-value*2 -->
+<rect x="170" y="361.7" width="120" height="148.3" class="legacy"/><text x="230" y="348" text-anchor="middle" class="h">74.16</text><text x="230" y="540" text-anchor="middle" class="h">2011</text>
+<rect x="360" y="253.9" width="120" height="256.1" class="legacy"/><text x="420" y="240" text-anchor="middle" class="h">128.05</text><text x="420" y="540" text-anchor="middle" class="h">2012</text>
+<rect x="620" y="132.1" width="120" height="377.9" class="clean"/><text x="680" y="118" text-anchor="middle" class="h">188.97</text><text x="680" y="540" text-anchor="middle" class="h">2014</text>
+<rect x="810" y="113.8" width="120" height="396.2" class="clean"/><text x="870" y="99" text-anchor="middle" class="h">198.10</text><text x="870" y="540" text-anchor="middle" class="h">2015</text>
+<rect x="170" y="585" width="25" height="18" class="legacy"/><text x="205" y="599" class="s">2011—2012：中央税收净返还 + 上级专项拨款等</text>
+<rect x="590" y="585" width="25" height="18" class="clean"/><text x="625" y="599" class="s">2014—2015：中央和省税收返还及转移支付</text>
+</svg>
