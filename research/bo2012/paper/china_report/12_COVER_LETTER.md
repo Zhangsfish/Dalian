@@ -10,7 +10,7 @@ The main finding is that political-network shocks do not translate mechanically 
 
 We believe the manuscript fits *China Report* because it addresses political institutions, subnational economic development and the interaction between political networks and local financial conditions in contemporary China. Its contribution is a mechanism-based political-economy interpretation rather than a claim to a single precisely estimated treatment effect.
 
-The manuscript is original, is not under consideration elsewhere, and has not been posted to a preprint server. [Verify this statement immediately before submission and disclose any prior public distribution if required.] All authors have approved the submission. The reviewer-facing manuscript has been anonymized, and an anonymized supplementary replication package is provided.
+The manuscript is original and is not under consideration elsewhere. An earlier working manuscript and research materials have been maintained in a public GitHub repository for version control and reproducibility; the manuscript has not been posted to a designated preprint server or published elsewhere. We disclose this proactively in light of *China Report*'s no-preprint policy and will follow the editor's guidance regarding prior public availability. All authors have approved the submission. The reviewer-facing manuscript has been anonymized, and an anonymized supplementary replication package is provided.
 
 Thank you for your consideration.
 
