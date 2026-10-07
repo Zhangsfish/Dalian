@@ -32,9 +32,9 @@ Xu, Chenggang. 2011. “The Fundamental Institutions of China’s Reforms and De
 
 ## Institutional and historical sources
 
-People’s Daily. 2001. “如何经营城市这份国有资产——薄熙来访谈录 [How to Manage the City as a State-Owned Asset: An Interview with Bo Xilai].” May 14, 5. https://cn.govopendata.com/renminribao/2001/05/14/5/.
+People's Daily. 2001. “如何经营城市这份国有资产——薄熙来访谈录 [How to Manage the City as a State-Owned Asset: An Interview with Bo Xilai].” May 14, 5. https://cn.govopendata.com/renminribao/2001/05/14/5/.
 
-People’s Daily Online. 2013. “薄熙来案一审判决书全文 [Full Text of the First-Instance Judgment in the Bo Xilai Case].” September 22. https://fanfu.people.com.cn/n/2013/0922/c64371-22993179.html.
+People's Daily Online. 2013. “薄熙来案一审判决书全文 [Full Text of the First-Instance Judgment in the Bo Xilai Case].” September 22. https://fanfu.people.com.cn/n/2013/0922/c64371-22993179.html.
 
 Xinhua News Agency. 2012. “重庆市委主要负责同志职务调整 [Leadership Adjustment of the Chongqing Municipal Party Committee].” March 15. Reproduced in *Global People*, March 26. https://paper.people.com.cn/hqrw/html/2012-03/26/content_1030196.htm?div=-1.
 
