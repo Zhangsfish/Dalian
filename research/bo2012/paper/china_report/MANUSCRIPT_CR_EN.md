@@ -114,11 +114,55 @@ The combined GDP and investment evidence clarifies what is meant by a “regiona
 
 ## 5. From Industrial Cash Flow to Credit Contraction
 
-[CR-S04 drafting target]
+### 5.1 The aggregate slowdown was concentrated in capital-intensive activity
+
+The 4.2 per cent GDP growth reported for Dalian in 2015 can obscure what was happening inside the local economy. The slowdown was not evenly distributed across sectors. In 2013, secondary and tertiary industry expanded at similar rates, 9.4 and 9.1 per cent respectively. By 2014, secondary-industry growth had fallen to 5.0 per cent while services still grew by 7.0 per cent. In 2015, secondary-industry growth almost stalled at 0.9 per cent, whereas tertiary industry continued to grow by 8.2 per cent.
+
+The contribution of the two sectors to aggregate growth shifted just as sharply. Secondary industry accounted for 55.4 per cent of Dalian's GDP growth in 2013, 44.8 per cent in 2014 and only 10.6 per cent in 2015. The tertiary sector's contribution rose from 41.4 to 52.4 and then 85.5 per cent. Dalian's headline GDP number therefore combined two very different processes: continued service-sector expansion and a near-collapse in the incremental contribution of the more capital-intensive industrial and construction economy.
+
+Liaoning displays the same broad sectoral split. Secondary-industry growth declined from 8.9 per cent in 2013 to 5.2 per cent in 2014 and −0.2 per cent in 2015, while tertiary-industry growth remained positive at 9.2, 7.2 and 7.1 per cent. This parallel reinforces the interpretation of the first layer of Dalian's slowdown as part of a broader regional industrial and investment transition rather than a city-wide demand collapse unique to Dalian.
+
+**[Figure 3 about here: From sectoral slowdown to corporate cash-flow stress]**
+
+### 5.2 Firm cash flow deteriorated before the financial system visibly weakened
+
+For credit conditions, sectoral value added is less important than the cash flow of borrowers. Dalian's above-scale industrial sector still expanded by 10.2 per cent in 2013. Industrial firms' main-business revenue grew by 9.7 per cent and total profits by 26.1 per cent. The picture changed in 2014: above-scale industrial value added slowed to 4.3 per cent, while revenue fell by 4.9 per cent and profits by 4.6 per cent. By 2015, industrial value added was down 4.5 per cent, main-business revenue was down 27.4 per cent and profits were down 30.7 per cent. Construction output followed the same direction, shifting from +14.2 per cent in 2013 to −8.7 per cent in 2014 and −30.0 per cent in 2015.
+
+This sequence provides the missing bridge between the regional investment downturn and local finance. Banks were not responding to an abstract change in municipal GDP. They were facing borrowers whose sales, profits and project returns were deteriorating, while property and construction activity weakened at the same time. Lower expected cash flow reduces debt-service capacity; falling project returns make new lending less attractive; and weaker asset values narrow the margin of safety behind collateralised lending.
+
+The timing also matters. The sharp deterioration in industrial revenue and profit is visible in 2014, the same year in which Dalian's relative growth gap widens markedly. The financial indicators then continue to worsen. This is consistent with a feedback process in which the investment downturn weakens firm balance sheets, and deteriorating balance sheets subsequently make the financial system less willing to sustain marginal projects.
+
+### 5.3 Credit conditions weakened more in Dalian than in Liaoning
+
+Bank lending provides one of the clearest Dalian-specific divergences. In 2011–2012, Dalian's loan growth had broadly converged with Liaoning's. Dalian's loan growth was about 11.6 per cent in 2013 compared with 12.8 per cent for Liaoning, a gap of roughly 1.2 percentage points. The gap widened to about 3.4 points in 2014 and 3.3 points in 2015, and to more than 4 points by 2016.
+
+The composition of new lending moved in the same direction. Dalian accounted for roughly 31.4 per cent of Liaoning's increment in bank loans in 2013, but only 23.4 per cent in 2014 and 21.9 per cent in 2015. At the same time, Dalian's non-performing-loan ratio rose from 1.07 per cent in 2013 to 1.86 per cent in 2014, 2.16 per cent in 2015 and 3.22 per cent in 2016.
+
+**[Figure 4 about here: Credit weakening and asset-quality deterioration in Dalian]**
+
+Private investment also weakened. In 2014, private fixed investment in Dalian grew by only 2.4 per cent, compared with 16.1 per cent in Wuhan and 24.0 per cent in Qingdao. This matters because it suggests that the local deterioration was not confined to government-led investment or bank balance sheets. Private investors were also becoming less willing to commit capital.
+
+The financing data reveal a further distinction. Bank-loan increments weakened substantially, but direct financing through capital markets remained comparatively large. Dalian's annual increase in bank loans fell from roughly RMB 755.5 billion? [unit check: source table uses 100 million yuan and will be standardised before submission] in 2014 to much less by 2016, while reported direct capital-market financing remained high. The final submission will report these amounts in a single consistent unit. Substantively, the pattern is already clear: financing stress was segmented rather than universal. Larger and more established borrowers retained access to bond and capital-market channels, while bank-dependent and marginal projects faced a much tougher environment.
+
+This segmentation is where the political-network mechanism becomes economically plausible. Political connections need not determine aggregate funding. Their value can be greater at the margin—when a project requires refinancing, when a bank is uncertain about local support, when collateral values are weakening, or when coordination across agencies determines whether an investment proceeds. The data do not identify which individual loan depended on political intervention, but they show that the Dalian-specific deterioration was concentrated precisely in the part of the economy where such coordination would be most valuable.
+
+Taken together, the evidence suggests a two-stage process. The first stage was regional: property, fixed investment and industrial profitability weakened across Liaoning. The second stage was more local: Dalian's asset quality deteriorated and bank credit increasingly underperformed the province. The political shock is therefore most plausibly located in the amplification of an existing adjustment rather than in the creation of the underlying regional downturn.
 
 ## 6. What Did Not Collapse: Public Resources and External Capital
 
-[CR-S04 drafting target]
+If Dalian's slowdown resulted mainly from the sudden loss of high-level political access, one would expect visible public resources to weaken alongside local credit. The available evidence points in a different direction. Comparable central and provincial tax rebates and transfers to Dalian totalled RMB 18.897 billion in 2014 and RMB 19.810 billion in 2015, an increase of about 4.8 per cent in nominal terms. Earlier fiscal reports use different categories and are therefore not joined mechanically into the same series, but the comparable years do not show a contemporaneous collapse in budgetary support.
+
+National policy platforms also continued to reach Dalian after 2012. The State Council approved the Jinpu New Area in 2014; Dalian entered the national cross-border e-commerce comprehensive pilot programme in 2016; and the Liaoning Free Trade Zone established a Dalian area in 2017. Large industrial investment did not disappear either. Intel announced another major investment in its Dalian facility in 2015. The city's top political leadership also showed substantial continuity through the initial slowdown: the municipal party secretary who took office in 2011 remained in position until 2017, while the mayor serving at the time of the 2012 event remained until the end of 2014.
+
+**[Figure 5 about here: What did not collapse—formal public resources and policy platforms]**
+
+These observations do not imply that political networks were irrelevant. They change the channel through which such networks are most likely to have mattered. Dalian continued to obtain formal fiscal resources, national policy designations and large projects at the same time that bank-credit growth, private investment and asset quality weakened. The contrast is more consistent with a deterioration in marginal coordination and financing conditions than with a comprehensive withdrawal of state support.
+
+Dalian's unusually deep economic links with Japan provide another potential explanation for its slowdown. New Japanese-invested projects declined from 136 in 2012 to 75 in 2013, 61 in 2014 and 47 in 2015. This sharp fall in project entry suggests that one of the city's long-standing external growth channels was maturing. Yet the timing is less consistent with a sudden 2014 trigger. Actual Japanese investment in Dalian was about US$2.63 billion in 2013 and US$2.54 billion in 2014, a decline of only 3.5 per cent in the latter year. JETRO data indicate that Dalian remained a major concentration of Japanese investment in Liaoning even as new project formation slowed.
+
+The Japanese evidence is therefore best understood as a slow-moving structural headwind. Fewer new entrants reduced the incremental contribution of an established external manufacturing network, but incumbent investment did not disappear at the moment when Dalian's GDP, industrial cash flow and bank credit began to diverge sharply. The 2015 investment figures show a much larger decline, although a change in statistical methodology limits direct comparison across that year.
+
+Combining the public-resource and Japanese evidence narrows the interpretation further. Dalian was not cut off from the state, nor did foreign capital suddenly vanish in 2014. The most immediate deterioration occurred in the domestic investment–industrial–credit chain. Formal public resources and large external actors were more resilient than marginal local borrowers and private investors. This asymmetry is central to the article's argument: political networks may be most economically important not when they deliver headline resources, but when they help sustain projects and credit relationships under worsening local conditions.
 
 ## 7. Chongqing and the Conditional Effect of Political Shocks
 
