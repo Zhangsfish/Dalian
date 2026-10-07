@@ -1,0 +1,16 @@
+metric,year,value,unit,interpretation
+dalian_minus_liaoning_loan_growth,2010,5.442,pp,事件前大连显著快于辽宁
+dalian_minus_liaoning_loan_growth,2011,-0.930,pp,事件前已基本贴近辽宁
+dalian_minus_liaoning_loan_growth,2012,-0.102,pp,事件年两者几乎相同
+dalian_minus_liaoning_loan_growth,2013,-1.206,pp,事件后开始小幅落后
+dalian_minus_liaoning_loan_growth,2014,-3.441,pp,2014差距明显扩大
+dalian_minus_liaoning_loan_growth,2015,-3.348,pp,2015继续明显落后
+dalian_minus_liaoning_loan_growth,2016,-4.304,pp,2016继续扩大
+dalian_loan_increment_share_of_liaoning,2013,31.36,pct,大连新增贷款占辽宁全省新增贷款
+dalian_loan_increment_share_of_liaoning,2014,23.38,pct,新增信贷份额明显下降
+dalian_loan_increment_share_of_liaoning,2015,21.88,pct,新增信贷份额继续偏低
+dalian_npl_ratio,2013,1.07,pct,信用风险低点
+dalian_npl_ratio,2014,1.86,pct,开始明显上升
+dalian_npl_ratio,2015,2.16,pct,继续上升
+dalian_npl_ratio,2016,3.22,pct,进一步恶化
+private_investment_growth_dalian,2014,2.4,pct,同年武汉16.1青岛24.0
