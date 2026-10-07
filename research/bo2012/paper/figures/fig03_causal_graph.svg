@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1250" height="760" viewBox="0 0 1250 760">
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#444"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#202124}.t{font-size:25px;font-weight:650}.h{font-size:18px;font-weight:600}.s{font-size:15px}.box{fill:#fff;stroke:#555;stroke-width:1.5;rx:10}.soft{fill:#f7f7f7;stroke:#777;stroke-width:1.2;rx:10}.risk{fill:#fafafa;stroke:#999;stroke-dasharray:5 4;stroke-width:1.2;rx:10}.arr{stroke:#444;stroke-width:1.8;fill:none;marker-end:url(#a)}.dash{stroke:#777;stroke-width:1.4;fill:none;stroke-dasharray:6 5;marker-end:url(#a)}</style>
+<text x="55" y="42" class="t">图3｜政治网络冲击、竞争机制与可观测结果</text>
+<rect x="60" y="105" width="230" height="82" class="box"/><text x="175" y="137" text-anchor="middle" class="h">2012政治事件</text><text x="175" y="164" text-anchor="middle" class="s">潜在网络价值/预期变化</text>
+<rect x="390" y="95" width="245" height="102" class="box"/><text x="512" y="130" text-anchor="middle" class="h">政治网络与协调能力 N</text><text x="512" y="157" text-anchor="middle" class="s">财政协调 · 项目协调</text><text x="512" y="179" text-anchor="middle" class="s">银行协调 · 风险预期</text>
+<rect x="760" y="70" width="205" height="75" class="soft"/><text x="862" y="101" text-anchor="middle" class="h">显性公共资源</text><text x="862" y="126" text-anchor="middle" class="s">转移支付 / 国家项目</text>
+<rect x="760" y="170" width="205" height="75" class="soft"/><text x="862" y="201" text-anchor="middle" class="h">信用与融资</text><text x="862" y="226" text-anchor="middle" class="s">贷款 / 民间投资</text>
+<rect x="760" y="270" width="205" height="75" class="soft"/><text x="862" y="301" text-anchor="middle" class="h">治理与预期</text><text x="862" y="326" text-anchor="middle" class="s">审批 / 风险偏好</text>
+<rect x="1040" y="170" width="160" height="75" class="box"/><text x="1120" y="202" text-anchor="middle" class="h">投资 I</text><text x="1120" y="227" text-anchor="middle" class="s">FAI / 房地产</text>
+<rect x="1040" y="310" width="160" height="75" class="box"/><text x="1120" y="342" text-anchor="middle" class="h">经济结果 Y</text><text x="1120" y="367" text-anchor="middle" class="s">实际GDP增速</text>
+<path d="M290 146 L390 146" class="arr"/><path d="M635 132 L760 108" class="arr"/><path d="M635 150 L760 205" class="arr"/><path d="M635 170 L760 305" class="arr"/><path d="M965 108 C1010 110 1010 175 1040 198" class="arr"/><path d="M965 207 L1040 207" class="arr"/><path d="M965 307 C1015 307 1010 248 1040 225" class="arr"/><path d="M1120 245 L1120 310" class="arr"/>
+<rect x="80" y="470" width="240" height="88" class="soft"/><text x="200" y="501" text-anchor="middle" class="h">辽宁/东北共同周期 R</text><text x="200" y="527" text-anchor="middle" class="s">地产 · 重工业 · 区域需求</text>
+<rect x="390" y="470" width="240" height="88" class="soft"/><text x="510" y="501" text-anchor="middle" class="h">大连结构暴露 S</text><text x="510" y="527" text-anchor="middle" class="s">对日 · 港口 · 产业结构</text>
+<rect x="700" y="470" width="240" height="88" class="risk"/><text x="820" y="501" text-anchor="middle" class="h">统计与修订过程 M</text><text x="820" y="527" text-anchor="middle" class="s">口径变化 · 记录清理</text>
+<path d="M320 500 C570 395 880 420 1040 345" class="dash"/><path d="M320 520 C600 510 900 300 1040 220" class="dash"/>
+<path d="M630 500 C790 420 950 420 1040 355" class="dash"/><path d="M630 520 C780 450 910 310 1040 220" class="dash"/>
+<path d="M940 510 C1010 500 1040 430 1090 385" class="dash"/>
+<text x="55" y="640" class="s">识别含义：GDP或投资下降本身不能区分政治网络、区域共同冲击与本地结构暴露；统计修订还可能改变观测结果。</text>
+<text x="55" y="670" class="s">因此本文要求“相对异常 + 机制变量 + 时间顺序 + 竞争解释 + 平行处理案例”共同约束政治叙事。</text>
+</svg>
