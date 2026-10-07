@@ -78,25 +78,12 @@ Panel B:
 
 ---
 
-### Figure 5｜What Did Not Collapse: Formal Public Resources
-**任务：**反驳“政治网络断裂后所有上级资源一起断掉”的简单故事。
-
-建议合并：
-- fig11_upper_fiscal_resources.svg
-- fig12_governance_project_timeline.svg
-
-表现：
-- fiscal transfers in comparable years;
-- policy/platform timeline;
-- major project continuity.
-
-避免：
-- 过多项目名；
-- 视觉上做成宣传时间轴。
+### Public-resource evidence｜Main text + Table 3, no standalone figure
+Sage guidance recommends avoiding figures that can be summarized clearly in a few sentences. Fiscal transfers, national-platform approvals and major-project continuity will therefore remain in Section 6 and the mechanism-summary table rather than a separate visualization.
 
 ---
 
-### Figure 6｜Same Political Shock, Different Local Trajectory: Dalian and Chongqing
+### Figure 5｜Same Political Shock, Different Local Trajectory: Dalian and Chongqing
 **任务：**把重庆从 robustness 提升为理论核心。
 
 建议重制：
@@ -195,6 +182,6 @@ Replication and headline-number validation.
 ## 5. Gate
 
 CR-S03 is complete when:
-- main-text evidence is reduced to 6 figures + 3 tables;
+- main-text evidence is reduced to 5 figures + 3 tables;
 - every old figure has a destination: main / supplement / drop;
 - no main-text visual exists merely to document a robustness check.
