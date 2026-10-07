@@ -6,7 +6,7 @@ Working title:
 
 ## Abstract
 
-**Purpose:** This article examines why the 2012 collapse of a major political network was followed by a sharp economic slowdown in Dalian but not by a comparable downturn in Chongqing.
+**Purpose:** This article examines why the 2012 political downfall of Bo Xilai, which abruptly altered the value of long-standing political ties, was followed by a sharp economic slowdown in Dalian but not by a comparable downturn in Chongqing.
 
 **Approach:** It combines city-level growth comparisons, a nested Dalian–Liaoning comparison, sectoral and financial data, evidence on fiscal and project resources, and Chongqing as a parallel exposed case.
 
@@ -14,7 +14,7 @@ Working title:
 
 **Conclusion:** Political network shocks do not translate mechanically into local economic decline. Their macroeconomic consequences depend on the structural vulnerability of local investment regimes, corporate cash flow and credit systems.
 
-Word count: 170.
+Word count: 181.
 
 ## Notes
 
