@@ -3,7 +3,7 @@
 更新时间：2026-10-08
 
 ## 当前状态
-**CR-S04 DRAFT V1 COMPLETE / CR-S05 IN PROGRESS**
+**CR-S06 AUDIT COMPLETE / CR-S07 IN PROGRESS**
 
 已完成：
 - 官方投稿要求完整阅读；
@@ -65,7 +65,25 @@ Working title:
 **English adaptation draft v1 complete.**
 
 ## CR-S05
+- [x] local political-economy literature expansion
+- [x] finance-channel literature expansion
+- [x] Chicago author–date working bibliography
+- [x] citation ↔ reference audit
+- [x] abstract / word-count audit
+
+**CR-S05 COMPLETE**
+
+## CR-S06
+- [x] manuscript identity scan
+- [x] public-GitHub risk identified
+- [x] anonymous replication-package design
+- [x] reviewer-facing data-availability wording
+
+**CR-S06 AUDIT COMPLETE**
+
+## CR-S07
 Current task:
-- literature expansion for China local political economy;
-- Chicago reference normalization;
-- citation ↔ reference bidirectional audit.
+- title-page template;
+- Statements and Declarations;
+- AI-use disclosure wording;
+- cover letter.
