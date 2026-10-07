@@ -1,0 +1,7 @@
+region,year,GDP_growth_pct,secondary_growth_pct,tertiary_growth_pct,secondary_contribution_pct,tertiary_contribution_pct,above_scale_industrial_growth_pct,industrial_revenue_growth_pct,industrial_profit_growth_pct,construction_output_growth_pct,loan_growth_pct,NPL_ratio_pct
+大连,2013,9.0,9.4,9.1,55.4,41.4,10.2,9.7,26.1,14.2,11.558,1.07
+大连,2014,5.8,5.0,7.0,44.8,52.4,4.3,-4.9,-4.6,-8.7,7.404,1.86
+大连,2015,4.2,0.9,8.2,10.6,85.5,-4.5,-27.4,-30.7,-30.0,6.471,2.16
+辽宁,2013,8.7,8.9,9.2,,,,,,,
+辽宁,2014,5.8,5.2,7.2,,,,,,,
+辽宁,2015,3.0,-0.2,7.1,,,,,,,
