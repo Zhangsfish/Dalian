@@ -1,11 +1,15 @@
 metric,value,interpretation
-GDP_growth_2011_pct,16.4,pre-event high growth
-GDP_growth_2013_2016_min_pct,10.7,no post-event single-digit collapse through 2016
-FAI_growth_2012_2016_min_pct,12.1,fixed investment remains double-digit through 2016
-loan_growth_2012_pct,18.2,no event-year credit cliff
-loan_growth_2014_pct,14.6,credit still robust two years after event
-loan_growth_2015_pct,11.2,credit still double-digit
-loan_growth_2016_pct,11.1884,computed from reported balance and increment
-real_estate_growth_2014_pct,20.5,property investment still expanding in 2014 unlike Dalian/Liaoning
-political_network_universal_cliff_hypothesis,not_supported,Chongqing stress test does not show inevitable 1-3 year resource or growth cliff
-zero_effect_hypothesis,not_identified,continued growth cannot prove no political loss because counterfactual could have been higher and replacement policies/support may compensate
+pre_2008_2011_mean_gap_pp,1.55,重庆相对成都+武汉均值的事前增速优势
+post_2013_2016_mean_gap_pp,2.35,2012事件后重庆相对优势
+post_minus_pre_gap_change_pp,0.80,相对优势未恶化而略扩大
+cq_loan_growth_2011_pct,20.0,事件前
+cq_loan_growth_2014_pct,14.6,事件后两年仍为两位数
+cq_loan_growth_2016_pct,11.189,事件后四年仍为两位数
+dalian_loan_growth_2011_pct,16.318,大连事件前
+dalian_loan_growth_2014_pct,7.404,大连事件后两年
+dalian_loan_growth_2016_pct,2.319,大连事件后四年
+cq_fai_growth_2012_pct,22.0,事件过渡年
+cq_fai_growth_2014_pct,18.0,事件后两年
+cq_fai_growth_2016_pct,12.1,事件后四年
+universal_network_cliff_hypothesis,not_supported,重庆没有出现与大连相似的1到4年GDP/信贷/投资断崖
+zero_effect_hypothesis,not_identified,重庆继续增长不能证明政治冲击为零；反事实和补偿性政策未知
