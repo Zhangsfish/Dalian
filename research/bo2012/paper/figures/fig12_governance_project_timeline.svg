@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1260" height="690" viewBox="0 0 1260 690">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",Arial,sans-serif;fill:#222}.t{font-size:25px;font-weight:650}.s{font-size:14px}.h{font-size:17px;font-weight:600}.axis{stroke:#777;stroke-width:1}.band{fill:#e8e8e8;stroke:#666;stroke-width:1}.event{fill:#555}.proj{fill:#999}</style>
+<text x="65" y="38" class="t">图12｜2011—2017年大连领导连续性与国家级平台时间线</text>
+<line x1="155" y1="590" x2="1170" y2="590" class="axis"/>
+<text x="190" y="620" class="s" text-anchor="middle">2011</text><text x="340" y="620" class="s" text-anchor="middle">2012</text><text x="490" y="620" class="s" text-anchor="middle">2013</text><text x="640" y="620" class="s" text-anchor="middle">2014</text><text x="790" y="620" class="s" text-anchor="middle">2015</text><text x="940" y="620" class="s" text-anchor="middle">2016</text><text x="1090" y="620" class="s" text-anchor="middle">2017</text>
+<text x="65" y="115" class="h">市委书记</text><rect x="265" y="85" width="810" height="52" class="band"/><text x="670" y="117" text-anchor="middle" class="h">唐军（2011.06—2017.02）</text>
+<text x="65" y="205" class="h">市长</text><rect x="155" y="175" width="635" height="52" class="band"/><text x="472" y="207" text-anchor="middle" class="h">李万才（至2014.12）</text><rect x="790" y="175" width="380" height="52" class="band"/><text x="980" y="207" text-anchor="middle" class="h">肖盛峰</text>
+<text x="65" y="315" class="h">国家平台</text>
+<circle cx="640" cy="305" r="10" class="event"/><text x="640" y="280" text-anchor="middle" class="s">金普新区</text><text x="640" y="330" text-anchor="middle" class="s">2014</text>
+<circle cx="940" cy="305" r="10" class="event"/><text x="940" y="270" text-anchor="middle" class="s">跨境电商综试区</text><text x="940" y="330" text-anchor="middle" class="s">2016</text>
+<circle cx="1090" cy="305" r="10" class="event"/><text x="1090" y="270" text-anchor="middle" class="s">辽宁自贸区大连片区</text><text x="1090" y="330" text-anchor="middle" class="s">2017</text>
+<text x="65" y="430" class="h">大型项目</text>
+<circle cx="790" cy="420" r="10" class="proj"/><text x="790" y="395" text-anchor="middle" class="s">Intel再投资</text><text x="790" y="445" text-anchor="middle" class="s">2015</text>
+<circle cx="1090" cy="420" r="10" class="proj"/><text x="1090" y="390" text-anchor="middle" class="s">Intel / 恒力</text><text x="1090" y="410" text-anchor="middle" class="s">年度投资继续推进</text><text x="1090" y="445" text-anchor="middle" class="s">2017</text>
+<line x1="340" y1="65" x2="340" y2="550" stroke="#888" stroke-width="1.5" stroke-dasharray="6 5"/><text x="350" y="78" class="s">2012政治事件</text>
+<text x="155" y="665" class="s">经济分叉最明显的2014—2015位于同一市委书记任期内，同时国家级平台和大型项目仍持续落地。</text>
+</svg>
