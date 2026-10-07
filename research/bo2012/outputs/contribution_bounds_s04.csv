@@ -1,0 +1,7 @@
+quantity,value_pp,share_of_external_gap_pct,status,assumption
+Dalian_external_control_gap_change_2008_2011_to_2013_2015,-4.5667,100,descriptive,武汉青岛等权参照
+Dalian_vs_Liaoning_gap_change_same_window,-1.45,31.75,descriptive_local_residual,辽宁代表共同区域冲击且未受同一政治处理污染
+Arithmetic_common_overlap,-3.1167,68.25,descriptive_overlap_only,等于外部差减去辽宁嵌套差;绝非因果贡献
+Narrow_city_specific_political_upper_envelope,1.45,31.75,scenario_bound_not_estimate,极强假设:所有大连相对辽宁残差都由政治因素造成且辽宁无政治溢出且无其他大连特有冲击
+Political_lower_bound,0,0,no_positive_lower_bound_identified,现有公开数据不能识别非零最小政治效应
+Broad_network_political_upper_bound,, ,not_identified,若政治网络冲击同时影响辽宁则辽宁参照被污染;现有数据无法给出数值上限
