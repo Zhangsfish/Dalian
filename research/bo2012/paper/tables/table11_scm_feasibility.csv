@@ -1,0 +1,6 @@
+scenario,pre_RMSPE_index_points,donor_weights,role
+strict_original4,19.6503,Yantai:1.0000,poor_prefit
+expanded_full,2.5424,Yantai:0.2712;Wuhan:0.7288,feasible_prefit
+drop_Wuhan,3.8730,Tianjin:0.3179;Nantong:0.6821,donor_sensitivity
+drop_Yantai,2.8776,Tangshan:0.0808;Nantong:0.4808;Wuhan:0.4385,donor_sensitivity
+drop_Wuhan_and_Yantai,3.8904,Tianjin:0.3179;Nantong:0.6821,donor_sensitivity
