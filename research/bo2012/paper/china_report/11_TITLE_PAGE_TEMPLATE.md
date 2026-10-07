@@ -60,7 +60,8 @@ The data used in this study are compiled from publicly available Chinese statist
 
 ### Use of generative artificial intelligence
 
-Generative AI tools (OpenAI ChatGPT) were used to assist with literature discovery and compilation, research-code development and checking, data visualization, reference compilation, and manuscript organization and language editing. All data, source materials, citations, calculations, and substantive interpretations were checked against original sources by the author(s), who take full responsibility for the accuracy and integrity of the manuscript.
+Generative AI tools (OpenAI ChatGPT) were used in an assistive capacity for literature discovery and compilation, research-code development and checking, preliminary data visualization, reference compilation, and manuscript organization and language editing. They were not used to create original source data or independently determine study results or conclusions. The author(s) independently verified all source materials, calculations, citations, interpretations, and final wording and take full responsibility for the manuscript.
+
 
 ## Submission notes
 
